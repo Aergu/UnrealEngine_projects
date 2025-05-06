@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal_v5.5.4/projects/BP_exercise_1_joshua/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/unreal_v5.5.4/projects/BP_exercise_1_joshua/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/unreal_v5.5.4/projects/BP_exercise_1_joshua/Content/blueprint_exercises/BP_Exercise_1.uasset",
+				"D:/unreal_v5.5.4/projects/BP_exercise_1_joshua/Content/blueprint_exercises/BP_exercise1_level.umap",
+				"D:/unreal_v5.5.4/projects/BP_exercise_1_joshua/Content/blueprint_exercises/BP_branch_example.uasset",
+				"D:/unreal_v5.5.4/projects/BP_exercise_1_joshua/Content/blueprint_exercises/BP_exercise1_level_p2.umap"
+			]
+		}
+	]
+}
