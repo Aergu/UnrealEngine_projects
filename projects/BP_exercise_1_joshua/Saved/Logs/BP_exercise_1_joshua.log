@@ -14270,3 +14270,11 @@ Script Stack (0 frames) :
 [2025.05.07-11.48.23:623][936]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.05.07-11.48.41:216][989]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.05.07-11.49.44:408][179]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.07-11.50.53:110][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.05.07-11.50.53:112][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/blueprint_exercises/Exercise_2/Exercise2_level' took 0.036
+[2025.05.07-11.50.53:127][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.07-11.50.53:127][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.07-11.50.53:127][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto6
+[2025.05.07-11.50.53:127][384]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole_Auto6AD056B174A42FDD4DC37F99793543073.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto6.uasset'
+[2025.05.07-11.50.53:127][384]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.05.07-11.50.58:241][400]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
