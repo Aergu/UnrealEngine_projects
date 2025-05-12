@@ -14364,3 +14364,14 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.12-13.00.59:280][292]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2025.05.12-13.01.01:355][292]LogExit: Editor shut down
 [2025.05.12-13.01.01:437][292]LogExit: Transaction tracking system shut down
+[2025.05.12-13.01.09:653][292]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 13.
+[2025.05.12-13.01.09:810][292]LogExit: Object subsystem successfully closed.
+[2025.05.12-13.01.09:918][292]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.12-13.01.13:886][292]LogMemoryProfiler: Shutdown
+[2025.05.12-13.01.13:888][292]LogNetworkingProfiler: Shutdown
+[2025.05.12-13.01.13:888][292]LoadingProfiler: Shutdown
+[2025.05.12-13.01.13:893][292]LogTimingProfiler: Shutdown
+[2025.05.12-13.01.17:819][292]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.12-13.01.18:055][292]RenderDocPlugin: plugin has been unloaded.
+[2025.05.12-13.01.18:097][292]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.12-13.01.18:097][292]LogNFORDenoise: NFORDenoise function shutting down
