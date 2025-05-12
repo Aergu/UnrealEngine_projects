@@ -11385,3 +11385,632 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.12-09.10.58:998][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.12-09.10.58:998][419]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
 [2025.05.12-09.11.00:234][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.05.12-09.11.48:699][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5687.236328
+[2025.05.12-09.11.48:854][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-09.11.48:854][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5687.380371, Update Interval: 335.646240
+[2025.05.12-09.13.40:142][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.13.40:226][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.13.40:226][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.13.40:241][862]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.13.40:241][862]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleDFBCEBAD4B6221024DB70D98975E8345.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.13.40:249][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.599 ms (total: 1.12 sec)
+[2025.05.12-09.13.40:323][862]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.13.40:324][862]LogContentValidation: Enabled validators:
+[2025.05.12-09.13.40:324][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.13.40:324][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.13.40:324][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.13.40:324][862]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.13.40:324][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.13.40:324][862]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.13.40:324][862]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.15.01:111][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.15.01:206][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.15.01:206][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.15.01:222][971]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.15.01:222][971]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleED5AE41641D7DC2DFBBBBE981277C00D.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.15.01:231][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.865 ms (total: 1.24 sec)
+[2025.05.12-09.15.01:303][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.15.01:303][971]LogContentValidation: Enabled validators:
+[2025.05.12-09.15.01:303][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.15.01:303][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.15.01:303][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.15.01:303][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.15.01:303][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.15.01:303][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.15.01:303][971]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.15.01:797][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.12-09.17.45:624][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.12-09.17.45:625][919]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.034
+[2025.05.12-09.17.45:625][919]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.17.45:625][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.17.45:641][919]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto5
+[2025.05.12-09.17.45:641][919]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole_Auto50A8C8C6E4632778C5A98EEB8C25CB8F3.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto5.uasset'
+[2025.05.12-09.17.45:642][919]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.05.12-09.18.00:450][123]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.05.12-09.18.00:462][123]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.12-09.18.00:730][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6059.233398
+[2025.05.12-09.18.00:863][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-09.18.00:863][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6059.354980, Update Interval: 307.575317
+[2025.05.12-09.19.39:457][154]LogDerivedDataCache: C:/Users/media/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.12-09.19.45:532][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.19.45:606][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.19.45:606][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.19.45:623][649]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.19.45:624][649]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleBDEF8DF84C6B84D510574E8799A0111D.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.19.45:633][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.878 ms (total: 1.34 sec)
+[2025.05.12-09.19.45:703][649]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.19.45:703][649]LogContentValidation: Enabled validators:
+[2025.05.12-09.19.45:703][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.19.45:703][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.19.45:703][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.19.45:703][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.19.45:703][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.19.45:703][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.19.45:703][649]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.19.46:451][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.12-09.23.42:776][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6401.263184
+[2025.05.12-09.23.42:914][701]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-09.23.42:914][701]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6401.390625, Update Interval: 329.015778
+[2025.05.12-09.23.46:852][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.23.46:931][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.23.46:932][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.23.46:949][ 40]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.23.46:949][ 40]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleD948C4F149CCB32FC7D24B9C1514481A.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.23.46:958][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.227 ms (total: 1.45 sec)
+[2025.05.12-09.23.47:027][ 40]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.23.47:028][ 40]LogContentValidation: Enabled validators:
+[2025.05.12-09.23.47:028][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.23.47:028][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.23.47:028][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.23.47:028][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.23.47:028][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.23.47:028][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.23.47:028][ 40]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.27.04:561][303]LogSlate: Window 'BP_7_ShieldConsole' being destroyed
+[2025.05.12-09.27.04:697][303]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-09.27.04:824][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-09.27.05:555][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.12-09.27.09:155][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.12-09.27.09:157][628]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.12-09.27.09:248][628]LogChaosDD: Creating Chaos Debug Draw Scene for world Exercise2_level
+[2025.05.12-09.27.09:352][628]LogAssetEditorSubsystem: Opening Asset editor for World /Game/blueprint_exercises/Exercise_2/Exercise2_level.Exercise2_level
+[2025.05.12-09.27.09:369][628]Cmd: MAP LOAD FILE="../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/Exercise2_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.12-09.27.09:521][628]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-09.27.09:550][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-09.27.09:832][628]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.12-09.27.10:157][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.12-09.27.10:243][628]LogWorld: UWorld::CleanupWorld for Exercise2_level, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-09.27.10:243][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-09.27.10:277][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.12-09.27.10:299][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.12-09.27.10:312][628]LogAudio: Display: Audio Device (ID: 1) registered with world 'Exercise2_level'.
+[2025.05.12-09.27.10:312][628]LogChaosDD: Creating Chaos Debug Draw Scene for world Exercise2_level
+[2025.05.12-09.27.10:466][628]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.12-09.27.10:535][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.12-09.27.10:576][628]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.12-09.27.10:582][628]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.28ms to complete.
+[2025.05.12-09.27.12:439][748]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole_C
+[2025.05.12-09.27.12:439][748]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole_C
+[2025.05.12-09.27.12:445][748]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole as actor: BP_7_ShieldConsole_C /Game/blueprint_exercises/Exercise_2/Exercise2_level.Exercise2_level:PersistentLevel.BP_7_ShieldConsole_C_0
+[2025.05.12-09.27.12:450][748]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole as actor: BP_7_ShieldConsole_C /Game/blueprint_exercises/Exercise_2/Exercise2_level.Exercise2_level:PersistentLevel.BP_7_ShieldConsole_C_0
+[2025.05.12-09.27.12:875][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.12-09.27.12:876][782]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.05.12-09.27.12:887][782]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole_C
+[2025.05.12-09.27.12:887][782]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole_C
+[2025.05.12-09.27.12:896][782]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole as actor: BP_7_ShieldConsole_C /Game/blueprint_exercises/Exercise_2/Exercise2_level.Exercise2_level:PersistentLevel.BP_7_ShieldConsole_C_2
+[2025.05.12-09.27.12:896][782]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole as actor: BP_7_ShieldConsole_C /Game/blueprint_exercises/Exercise_2/Exercise2_level.Exercise2_level:PersistentLevel.BP_7_ShieldConsole_C_2
+[2025.05.12-09.27.16:951][116]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.05.12-09.27.16:977][116]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.05.12-09.27.16:977][116]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.05.12-09.27.17:180][119]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.05.12-09.27.17:363][122]Cmd: DELETE
+[2025.05.12-09.27.17:363][122]Cmd: ACTOR DELETE
+[2025.05.12-09.27.17:771][122]LogEditorActor: Deleted Actor: BP_7_ShieldConsole_C
+[2025.05.12-09.27.17:794][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.12-09.27.17:796][122]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2025.05.12-09.27.23:161][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.27.23:351][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.12-09.27.23:394][600]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/Exercise2_level
+[2025.05.12-09.27.23:394][600]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Exercise2_level21ACB8C0444C1AAD24F171AFDEAC3418.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/Exercise2_level.umap'
+[2025.05.12-09.27.23:439][600]LogFileHelpers: Saving map 'Exercise2_level' took 0.176
+[2025.05.12-09.27.23:460][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 299.294 ms (total: 1.75 sec)
+[2025.05.12-09.27.23:528][600]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.27.23:528][600]LogContentValidation: Enabled validators:
+[2025.05.12-09.27.23:528][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.27.23:528][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.27.23:528][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.27.23:528][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.27.23:528][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.27.23:528][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.27.23:528][600]AssetCheck: /Game/blueprint_exercises/Exercise_2/Exercise2_level Validating asset
+[2025.05.12-09.27.24:446][688]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.12-09.27.24:577][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.12-09.27.24:682][688]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.12-09.27.24:682][688]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.12-09.27.24:703][688]LogPlayLevel: Creating play world package: /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level
+[2025.05.12-09.27.24:722][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018984s)
+[2025.05.12-09.27.24:722][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/blueprint_exercises/Exercise_2/Exercise2_level.Exercise2_level to /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level.Exercise2_level (0.019309s)
+[2025.05.12-09.27.24:752][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.12-09.27.24:765][688]LogChaosDD: Creating Chaos Debug Draw Scene for world Exercise2_level
+[2025.05.12-09.27.24:789][688]LogPlayLevel: PIE: World Init took: (0.024006s)
+[2025.05.12-09.27.24:799][688]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.12-09.27.24:799][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.12-09.27.24:799][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.12-09.27.24:799][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.12-09.27.24:799][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.12-09.27.24:799][688]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.12-09.27.24:799][688]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.12-09.27.24:799][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.12-09.27.24:799][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.12-09.27.24:799][688]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.12-09.27.24:799][688]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.12-09.27.24:799][688]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.12-09.27.24:801][688]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.12-09.27.24:841][688]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek High Definition Audio)
+[2025.05.12-09.27.24:843][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.12-09.27.24:843][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.12-09.27.24:848][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.12-09.27.24:849][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.12-09.27.24:849][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.12-09.27.24:851][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.12-09.27.24:851][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.12-09.27.24:851][688]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.12-09.27.24:851][688]LogAudio: Display: Audio Device (ID: 2) registered with world 'Exercise2_level'.
+[2025.05.12-09.27.24:851][688]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.12-09.27.24:943][688]LogLoad: Game class is 'GameModeBase'
+[2025.05.12-09.27.24:949][688]LogWorld: Bringing World /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level.Exercise2_level up for play (max tick rate 0) at 2025.05.12-11.27.24
+[2025.05.12-09.27.24:950][688]LogWorld: Bringing up level for play took: 0.001088
+[2025.05.12-09.27.24:962][688]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.05.12-09.27.25:319][688]PIE: Server logged in
+[2025.05.12-09.27.25:320][688]PIE: Play in editor total start time 0.85 seconds.
+[2025.05.12-09.27.35:523][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.12-09.27.35:523][445]LogWorld: BeginTearingDown for /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level
+[2025.05.12-09.27.35:550][445]LogWorld: UWorld::CleanupWorld for Exercise2_level, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-09.27.35:550][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-09.27.35:622][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.12-09.27.35:635][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-09.27.35:688][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.12-09.27.35:692][445]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.12-09.27.35:727][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.12-09.27.35:739][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.12-09.27.35:803][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.12-09.27.35:895][446]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.05.12-09.27.42:188][999]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.BP_7_ShieldConsole
+[2025.05.12-09.27.42:190][999]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.05.12-09.27.42:572][999]LogSlate: The tab "SaveActorTab" attempted to spawn in layout 'Blueprints_Unified_Components_v7' but failed for some reason. It will not be displayed.
+[2025.05.12-09.28.33:980][423]LogShaderCompilers: Display: ================================================
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Total job queries 11,487, among them cache hits 1 (0.01%), DDC hits 0 (0.00%), Duplicates 2,674 (23.28%)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Tracking 8,812 distinct input hashes that result in 8,335 distinct outputs (94.59%)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: RAM used: 6.30 MiB of 819.20 MiB budget. Usage: 0.77%
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Shaders Compiled: 8,812
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Jobs assigned 8,812, completed 8,812 (100%)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Average time worker was idle: 29.87 s
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Time job spent in pending queue: average 522.26 s, longest 1065.89 s
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Job execution time: average 6.07 s, max 128.73 s
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Job life time (pending + execution): average 528.33 s, max 1066.79
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Shader code size: average 14.191 KiB, min 1.16 KiB, max 330.166 KiB
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1083.06 s
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.50%
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Jobs were issued in 899 batches (only local compilation was used), average 9.80 jobs/batch
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Average processing rate: 8.14 jobs/sec
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Total thread time: 5,254.212 s
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Total thread preprocess time: 125.283 s
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Percentage time preprocessing: 2.38%
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Effective parallelization: 4.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 24.23 sec, max 86.31 sec, min 1.38 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 13.38 sec, max 13.38 sec, min 13.38 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 8.04 sec, max 9.15 sec, min 5.23 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 4.13 sec, max 8.17 sec, min 1.38 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 3.01 sec, max 5.95 sec, min 1.59 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 12.45% of total time (compiled   27 times, average 24.23 sec, max 86.31 sec, min 1.38 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.36% of total time (compiled  454 times, average 1.43 sec, max 2.56 sec, min 1.03 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 11.57% of total time (compiled  260 times, average 2.34 sec, max 7.54 sec, min 0.00 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.84% of total time (compiled  480 times, average 0.75 sec, max 5.22 sec, min 0.29 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display:                                                FOcclusionRGS - 3.83% of total time (compiled  192 times, average 1.05 sec, max 3.09 sec, min 0.52 sec)
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: === Material stats ===
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Materials Translated:    127
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Material Total Translate Time: 0.52 s
+[2025.05.12-09.28.33:981][423]LogShaderCompilers: Display: Material Translation Only: 0.21 s (41%)
+[2025.05.12-09.28.33:982][423]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.12-09.28.33:982][423]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.05.12-09.28.33:982][423]LogShaderCompilers: Display: ================================================
+[2025.05.12-09.29.48:849][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6767.298828
+[2025.05.12-09.29.49:850][952]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-09.29.49:851][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6767.965820, Update Interval: 303.729980
+[2025.05.12-09.30.42:660][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.30.42:732][989]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.30.42:732][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.30.42:748][989]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.30.42:749][989]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleA737D892428F576326C160B50092F9AE.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.30.42:761][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.867 ms (total: 1.85 sec)
+[2025.05.12-09.30.42:828][989]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.30.42:828][989]LogContentValidation: Enabled validators:
+[2025.05.12-09.30.42:828][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.30.42:828][989]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.30.42:828][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.30.42:828][989]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.30.42:828][989]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.30.42:828][989]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.30.42:828][989]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.30.43:583][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.12-09.35.39:066][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7117.512695
+[2025.05.12-09.35.39:227][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-09.35.39:227][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7117.660156, Update Interval: 349.086578
+[2025.05.12-09.36.00:205][961]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: fc7...5a9
+[2025.05.12-09.36.00:205][961]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.554e+07
+[2025.05.12-09.36.00:390][976]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: fc7...5a9 Access[Expires: 2025.05.12-11.36.00 Remaining: 7200.22] Refresh[Expires: 2025-11-08T07:37:39.524Z Remaining: 15544899.52] State: Valid
+[2025.05.12-09.37.44:867][571]LogEditorTransaction: Undo Create Pin Link
+[2025.05.12-09.37.55:782][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.37.55:862][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.37.55:863][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.37.55:895][309]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.37.55:896][309]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleF3F9B4484D3B3F6DAB98748946944751.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.37.55:904][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.540 ms (total: 1.97 sec)
+[2025.05.12-09.37.55:975][309]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.37.55:976][309]LogContentValidation: Enabled validators:
+[2025.05.12-09.37.55:976][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.37.55:976][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.37.55:976][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.37.55:976][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.37.55:976][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.37.55:976][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.37.55:976][309]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.38.29:173][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.38.29:245][888]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.38.29:245][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.38.29:260][888]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.38.29:261][888]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleF8816D03402CDE157E53ECB7A3E541D5.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.38.29:268][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.113 ms (total: 2.07 sec)
+[2025.05.12-09.38.29:343][888]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.38.29:343][888]LogContentValidation: Enabled validators:
+[2025.05.12-09.38.29:343][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.38.29:343][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.38.29:343][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.38.29:343][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.38.29:343][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.38.29:343][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.38.29:343][888]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.38.39:947][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.12-09.38.40:906][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.38.40:972][791]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.38.40:972][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.38.40:988][791]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.38.40:988][791]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleB96F74ED4C991A00FC8C32B1C24DCD7B.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.38.40:997][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.263 ms (total: 2.16 sec)
+[2025.05.12-09.38.41:068][791]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.38.41:069][791]LogContentValidation: Enabled validators:
+[2025.05.12-09.38.41:069][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.38.41:069][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.38.41:069][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.38.41:069][791]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.38.41:069][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.38.41:069][791]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.38.41:069][791]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.40.15:816][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.12-09.40.15:819][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/blueprint_exercises/Exercise_2/Exercise2_level' took 0.030
+[2025.05.12-09.40.15:819][ 12]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.40.15:819][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.40.15:834][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto6
+[2025.05.12-09.40.15:835][ 12]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole_Auto6AEED16AF4111ED2D02EC5D9C627F2744.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto6.uasset'
+[2025.05.12-09.40.15:835][ 12]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.05.12-09.41.38:827][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.41.38:900][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.41.38:900][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.41.38:916][616]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.41.38:917][616]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole227489EB465D147C861822A45C059B63.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.41.38:925][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.469 ms (total: 2.26 sec)
+[2025.05.12-09.41.38:997][616]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.41.38:997][616]LogContentValidation: Enabled validators:
+[2025.05.12-09.41.38:997][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.41.38:997][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.41.38:997][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.41.38:997][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.41.38:997][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.41.38:997][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.41.38:997][616]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.42.10:707][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.12-09.42.19:389][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7517.793457
+[2025.05.12-09.42.19:529][506]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-09.42.19:529][506]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7517.920898, Update Interval: 312.896515
+[2025.05.12-09.43.49:811][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.43.49:882][595]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.43.49:882][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.43.49:898][595]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.43.49:899][595]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole423F28C941B6586D39322AA0E56A6EAB.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.43.49:907][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.727 ms (total: 2.35 sec)
+[2025.05.12-09.43.49:980][595]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.43.49:980][595]LogContentValidation: Enabled validators:
+[2025.05.12-09.43.49:980][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.43.49:980][595]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.43.49:980][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.43.49:981][595]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.43.49:981][595]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.43.49:981][595]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.43.49:981][595]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.44.03:488][507]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.12-09.44.03:494][507]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprint_exercises/Exercise_1/BP_Exercise1_6.BP_Exercise1_6
+[2025.05.12-09.44.03:494][507]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.05.12-09.44.03:612][507]LogSlate: The tab "SaveActorTab" attempted to spawn in layout 'Blueprints_Unified_Components_v7' but failed for some reason. It will not be displayed.
+[2025.05.12-09.44.07:470][701]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-09.44.07:470][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-09.44.07:629][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.12-09.46.16:284][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.46.16:361][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.46.16:361][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.46.16:377][829]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.46.16:377][829]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleAEAF724C42157FBA081BEC82366166A4.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.46.16:387][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.992 ms (total: 2.46 sec)
+[2025.05.12-09.46.16:460][829]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.46.16:460][829]LogContentValidation: Enabled validators:
+[2025.05.12-09.46.16:460][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.46.16:460][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.46.16:460][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.46.16:460][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.46.16:460][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.46.16:460][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.46.16:460][829]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.46.18:156][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.12-09.48.06:299][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7864.752930
+[2025.05.12-09.48.06:468][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-09.48.06:468][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7864.911133, Update Interval: 355.601685
+[2025.05.12-09.50.16:327][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.05.12-09.50.16:329][133]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/blueprint_exercises/Exercise_2/Exercise2_level' took 0.034
+[2025.05.12-09.50.16:329][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.50.16:329][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.50.16:349][133]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto7
+[2025.05.12-09.50.16:349][133]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole_Auto7BBAC60D244373FCD5EC27B861368FB59.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto7.uasset'
+[2025.05.12-09.50.16:349][133]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.05.12-09.54.49:570][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8268.037109
+[2025.05.12-09.54.50:570][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-09.54.50:570][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8268.703125, Update Interval: 313.746155
+[2025.05.12-09.55.55:885][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-09.55.55:958][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-09.55.55:958][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-09.55.55:976][147]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-09.55.55:976][147]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole491C8E2049CC3CB63288B3AF65EE181D.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-09.55.55:986][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.489 ms (total: 2.56 sec)
+[2025.05.12-09.55.56:056][147]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-09.55.56:056][147]LogContentValidation: Enabled validators:
+[2025.05.12-09.55.56:056][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-09.55.56:056][147]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-09.55.56:056][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-09.55.56:056][147]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-09.55.56:056][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-09.55.56:056][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-09.55.56:057][147]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-09.55.58:734][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.12-09.59.47:553][558]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.05.12-09.59.47:570][558]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.12-10.00.22:067][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.05.12-10.00.22:069][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/blueprint_exercises/Exercise_2/Exercise2_level' took 0.034
+[2025.05.12-10.00.22:069][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-10.00.22:069][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-10.00.22:088][442]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto8
+[2025.05.12-10.00.22:088][442]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole_Auto81A4FBBC44FA0D1814E6BB1B599EDB9D9.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto8.uasset'
+[2025.05.12-10.00.22:089][442]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.05.12-10.00.43:300][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8621.787109
+[2025.05.12-10.00.44:301][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.00.44:301][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8622.452148, Update Interval: 317.496277
+[2025.05.12-10.03.00:426][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-10.03.00:500][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-10.03.00:500][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-10.03.00:519][606]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-10.03.00:520][606]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleB69A850D4D681E355D421DB28B534CBE.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-10.03.00:530][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.079 ms (total: 2.66 sec)
+[2025.05.12-10.03.00:597][606]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-10.03.00:597][606]LogContentValidation: Enabled validators:
+[2025.05.12-10.03.00:597][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-10.03.00:597][606]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-10.03.00:597][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-10.03.00:597][606]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-10.03.00:597][606]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-10.03.00:597][606]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-10.03.00:597][606]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-10.03.01:354][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.12-10.06.51:060][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8989.544922
+[2025.05.12-10.06.52:061][540]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.06.52:061][540]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8990.212891, Update Interval: 320.665924
+[2025.05.12-10.10.36:764][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.05.12-10.10.36:766][949]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/blueprint_exercises/Exercise_2/Exercise2_level' took 0.034
+[2025.05.12-10.10.36:766][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-10.10.36:766][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-10.10.36:784][949]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto9
+[2025.05.12-10.10.36:784][949]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsole_Auto9EE23B21E41953499978151B0C79FE041.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Autosaves/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole_Auto9.uasset'
+[2025.05.12-10.10.36:784][949]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.05.12-10.13.05:684][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9364.151367
+[2025.05.12-10.13.06:684][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.13.06:684][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9364.817383, Update Interval: 303.946045
+[2025.05.12-10.18.48:419][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9706.885742
+[2025.05.12-10.18.49:421][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.18.49:421][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9707.550781, Update Interval: 315.573608
+[2025.05.12-10.19.39:457][578]LogDerivedDataCache: C:/Users/media/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.12-10.24.58:832][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10077.302734
+[2025.05.12-10.24.59:832][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.24.59:832][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10077.970703, Update Interval: 342.855316
+[2025.05.12-10.31.19:912][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10458.392578
+[2025.05.12-10.31.20:912][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.31.20:912][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10459.057617, Update Interval: 345.074615
+[2025.05.12-10.38.05:654][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10864.134766
+[2025.05.12-10.38.06:653][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.38.06:653][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10864.800781, Update Interval: 332.676178
+[2025.05.12-10.44.12:060][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11230.552734
+[2025.05.12-10.44.13:060][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.44.13:060][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11231.219727, Update Interval: 326.622528
+[2025.05.12-10.50.15:496][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11593.986328
+[2025.05.12-10.50.16:496][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.50.16:496][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11594.654297, Update Interval: 353.021637
+[2025.05.12-10.57.06:937][318]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12005.438477
+[2025.05.12-10.57.07:936][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-10.57.07:936][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12006.106445, Update Interval: 339.053925
+[2025.05.12-11.03.20:343][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12378.851562
+[2025.05.12-11.03.21:344][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-11.03.21:344][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12379.518555, Update Interval: 354.299744
+[2025.05.12-11.10.14:757][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12793.262695
+[2025.05.12-11.10.15:757][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-11.10.15:757][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12793.929688, Update Interval: 304.299438
+[2025.05.12-11.16.18:831][773]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13157.333008
+[2025.05.12-11.16.19:831][776]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-11.16.19:831][776]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13157.998047, Update Interval: 308.245483
+[2025.05.12-11.19.39:457][327]LogDerivedDataCache: C:/Users/media/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.12-11.22.18:424][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13516.940430
+[2025.05.12-11.22.19:425][806]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-11.22.19:425][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13517.606445, Update Interval: 337.200836
+[2025.05.12-11.23.49:801][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-11.23.49:881][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole] ([2] browsable assets)...
+[2025.05.12-11.23.49:881][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole]
+[2025.05.12-11.23.49:917][270]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole
+[2025.05.12-11.23.49:917][270]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_7_ShieldConsoleB8862AEA47987A8E0506128A84CD341F.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_2/BP_7_ShieldConsole.uasset'
+[2025.05.12-11.23.49:928][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.838 ms (total: 2.79 sec)
+[2025.05.12-11.23.50:007][270]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-11.23.50:007][270]LogContentValidation: Enabled validators:
+[2025.05.12-11.23.50:007][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-11.23.50:007][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-11.23.50:007][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-11.23.50:007][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-11.23.50:008][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-11.23.50:008][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-11.23.50:008][270]AssetCheck: /Game/blueprint_exercises/Exercise_2/BP_7_ShieldConsole Validating asset
+[2025.05.12-11.23.50:859][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2025.05.12-11.23.54:401][542]LogSlate: Window 'BP_7_ShieldConsole' being destroyed
+[2025.05.12-11.23.54:493][542]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.12-11.23.54:493][542]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.23.54:493][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.23.54:832][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.05.12-11.23.57:640][784]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.12-11.23.57:662][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.12-11.23.57:694][784]LogPlayLevel: Creating play world package: /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level
+[2025.05.12-11.23.57:719][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024948s)
+[2025.05.12-11.23.57:719][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/blueprint_exercises/Exercise_2/Exercise2_level.Exercise2_level to /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level.Exercise2_level (0.025074s)
+[2025.05.12-11.23.57:743][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.05.12-11.23.57:744][784]LogChaosDD: Creating Chaos Debug Draw Scene for world Exercise2_level
+[2025.05.12-11.23.57:746][784]LogPlayLevel: PIE: World Init took: (0.002255s)
+[2025.05.12-11.23.57:747][784]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.12-11.23.57:747][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.12-11.23.57:747][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.12-11.23.57:747][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.12-11.23.57:747][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.12-11.23.57:747][784]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.12-11.23.57:747][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.12-11.23.57:747][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.12-11.23.57:747][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.12-11.23.57:747][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.12-11.23.57:747][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.12-11.23.57:747][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.12-11.23.57:750][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.12-11.23.57:799][784]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek High Definition Audio)
+[2025.05.12-11.23.57:800][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.12-11.23.57:800][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.12-11.23.57:800][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.12-11.23.57:802][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.12-11.23.57:802][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.12-11.23.57:805][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.12-11.23.57:805][784]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.12-11.23.57:805][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.12-11.23.57:805][784]LogAudio: Display: Audio Device (ID: 3) registered with world 'Exercise2_level'.
+[2025.05.12-11.23.57:814][784]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.12-11.23.57:828][784]LogLoad: Game class is 'GameModeBase'
+[2025.05.12-11.23.57:829][784]LogWorld: Bringing World /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level.Exercise2_level up for play (max tick rate 0) at 2025.05.12-13.23.57
+[2025.05.12-11.23.57:829][784]LogWorld: Bringing up level for play took: 0.000613
+[2025.05.12-11.23.57:839][784]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.05.12-11.23.57:933][784]LogBlueprintUserMessages: [BP_7_ShieldConsole_C_1] Shield Engaged
+[2025.05.12-11.23.57:956][784]PIE: Server logged in
+[2025.05.12-11.23.57:957][784]PIE: Play in editor total start time 0.297 seconds.
+[2025.05.12-11.24.09:029][624]LogBlueprintUserMessages: [BP_7_ShieldConsole_C_1] Shield Down
+[2025.05.12-11.24.14:814][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.12-11.24.14:814][ 61]LogWorld: BeginTearingDown for /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level
+[2025.05.12-11.24.14:814][ 61]LogWorld: UWorld::CleanupWorld for Exercise2_level, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.24.14:814][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.24.14:829][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.12-11.24.14:835][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.24.14:856][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.12-11.24.14:856][ 61]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.12-11.24.14:856][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.12-11.24.14:859][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.12-11.24.14:882][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.12-11.24.14:952][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.05.12-11.24.20:489][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.12-11.24.20:509][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.12-11.24.20:544][285]LogPlayLevel: Creating play world package: /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level
+[2025.05.12-11.24.20:544][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000852s)
+[2025.05.12-11.24.20:545][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/blueprint_exercises/Exercise_2/Exercise2_level.Exercise2_level to /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level.Exercise2_level (0.000931s)
+[2025.05.12-11.24.20:565][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.12-11.24.20:566][285]LogChaosDD: Creating Chaos Debug Draw Scene for world Exercise2_level
+[2025.05.12-11.24.20:568][285]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2025.05.12-11.24.20:569][285]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.12-11.24.20:569][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.12-11.24.20:569][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.12-11.24.20:569][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.12-11.24.20:569][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.12-11.24.20:569][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.12-11.24.20:569][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.12-11.24.20:569][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.12-11.24.20:569][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.12-11.24.20:569][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.12-11.24.20:569][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.12-11.24.20:569][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.12-11.24.20:571][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.12-11.24.20:616][285]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek High Definition Audio)
+[2025.05.12-11.24.20:616][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.12-11.24.20:616][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.12-11.24.20:616][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.12-11.24.20:617][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.12-11.24.20:617][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.12-11.24.20:620][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.12-11.24.20:620][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.12-11.24.20:620][285]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.12-11.24.20:620][285]LogAudio: Display: Audio Device (ID: 4) registered with world 'Exercise2_level'.
+[2025.05.12-11.24.20:620][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.12-11.24.20:623][285]LogLoad: Game class is 'GameModeBase'
+[2025.05.12-11.24.20:623][285]LogWorld: Bringing World /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level.Exercise2_level up for play (max tick rate 0) at 2025.05.12-13.24.20
+[2025.05.12-11.24.20:623][285]LogWorld: Bringing up level for play took: 0.000382
+[2025.05.12-11.24.20:626][285]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.05.12-11.24.20:627][285]LogBlueprintUserMessages: [BP_7_ShieldConsole_C_1] Shield Engaged
+[2025.05.12-11.24.20:628][285]PIE: Server logged in
+[2025.05.12-11.24.20:629][285]PIE: Play in editor total start time 0.12 seconds.
+[2025.05.12-11.24.27:319][789]LogBlueprintUserMessages: [BP_7_ShieldConsole_C_1] Shield Engaged
+[2025.05.12-11.24.31:474][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.12-11.24.31:474][100]LogWorld: BeginTearingDown for /Game/blueprint_exercises/Exercise_2/UEDPIE_0_Exercise2_level
+[2025.05.12-11.24.31:474][100]LogWorld: UWorld::CleanupWorld for Exercise2_level, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-11.24.31:474][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.24.31:482][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.12-11.24.31:489][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-11.24.31:510][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.12-11.24.31:510][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.12-11.24.31:510][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.12-11.24.31:512][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.12-11.24.31:520][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.12-11.24.31:586][101]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.05.12-11.28.27:888][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13886.416992
+[2025.05.12-11.28.28:887][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-11.28.28:887][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13887.083984, Update Interval: 311.237518
+[2025.05.12-11.32.46:477][461]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.12-11.32.46:485][461]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.12-11.32.46:496][462]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.12-11.32.52:269][955]LogContentBrowser: Attempting asset rename: NewFolder -> Exercise_3
+[2025.05.12-11.32.52:271][955]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.12-11.33.04:883][939]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.05.12-11.33.04:891][939]LogContentBrowser: Creating deferred item: NewWorld
+[2025.05.12-11.33.04:909][941]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.05.12-11.33.11:409][497]LogContentBrowser: Attempting asset rename: NewWorld -> Exercise3_level
+[2025.05.12-11.33.11:424][497]LogChaosDD: Creating Chaos Debug Draw Scene for world Exercise3_level
+[2025.05.12-11.33.11:509][497]LogContentBrowser: End creating deferred item NewWorld
+[2025.05.12-11.33.12:663][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-11.33.12:784][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.12-11.33.12:796][593]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_3/Exercise3_level
+[2025.05.12-11.33.12:797][593]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Exercise3_level1E6C013241E0A8232F85AFB91C95DE03.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_3/Exercise3_level.umap'
+[2025.05.12-11.33.12:810][593]LogFileHelpers: Saving map 'Exercise3_level' took 0.074
+[2025.05.12-11.33.12:821][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.885 ms (total: 2.95 sec)
+[2025.05.12-11.33.12:903][593]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-11.33.12:903][593]LogContentValidation: Enabled validators:
+[2025.05.12-11.33.12:903][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-11.33.12:903][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-11.33.12:903][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-11.33.12:903][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-11.33.12:903][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-11.33.12:903][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-11.33.12:903][593]AssetCheck: /Game/blueprint_exercises/Exercise_3/Exercise3_level Validating asset
