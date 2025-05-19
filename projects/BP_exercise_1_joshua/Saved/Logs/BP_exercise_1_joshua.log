@@ -15542,3 +15542,72 @@ Script call stack:
 [2025.05.19-12.47.17:411][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.19-12.47.17:411][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.19-12.47.17:411][439]AssetCheck: /Game/blueprint_exercises/Exercise_6/BP_11_FunctionsExample_EX1 Validating asset
+[2025.05.19-12.50.33:271][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18043.308594
+[2025.05.19-12.50.34:271][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.50.34:271][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18043.976562, Update Interval: 322.579437
+[2025.05.19-12.55.27:294][768]LogSlate: Window 'BP_11_FunctionsExample_EX1' being destroyed
+[2025.05.19-12.55.27:315][768]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.55.27:315][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.55.27:543][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.19-12.55.41:595][895]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.05.19-12.55.41:604][895]LogContentBrowser: Creating deferred item: NewWorld
+[2025.05.19-12.55.41:634][896]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.05.19-12.55.44:604][161]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2025.05.19-12.55.44:605][161]LogChaosDD: Creating Chaos Debug Draw Scene for world NewWorld
+[2025.05.19-12.55.44:614][161]LogContentBrowser: End creating deferred item NewWorld
+[2025.05.19-12.55.46:272][291]LogObjectTools: Deleting 1 worlds: /Game/blueprint_exercises/NewWorld.NewWorld
+[2025.05.19-12.55.46:272][291]LogObjectTools: Currently 1 active worlds: /Game/blueprint_exercises/Exercise_6/Exercise6_level.Exercise6_level
+[2025.05.19-12.55.46:307][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.19-12.55.48:202][291]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.19-12.55.48:221][291]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.55.48:221][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.55.48:289][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.19-12.55.48:319][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.19-12.55.48:347][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.19-12.55.53:213][677]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.19-12.55.53:242][677]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.19-12.55.53:253][678]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.19-12.55.58:076][108]LogContentBrowser: Attempting asset rename: NewFolder -> Exercise_7
+[2025.05.19-12.55.58:077][108]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.19-12.56.03:253][519]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.05.19-12.56.03:261][519]LogContentBrowser: Creating deferred item: NewWorld
+[2025.05.19-12.56.03:441][521]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.05.19-12.56.10:272][118]LogContentBrowser: Attempting asset rename: NewWorld -> Exercise7_level
+[2025.05.19-12.56.10:273][118]LogChaosDD: Creating Chaos Debug Draw Scene for world Exercise7_level
+[2025.05.19-12.56.10:278][118]LogContentBrowser: End creating deferred item NewWorld
+[2025.05.19-12.56.12:671][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-12.56.12:785][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.19-12.56.12:789][325]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_7/Exercise7_level
+[2025.05.19-12.56.12:789][325]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Exercise7_levelEC538FF34F9A5C93E7F02B99C7B9F9C7.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_7/Exercise7_level.umap'
+[2025.05.19-12.56.12:797][325]LogFileHelpers: Saving map 'Exercise7_level' took 0.035
+[2025.05.19-12.56.12:806][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.626 ms (total: 14.2 sec)
+[2025.05.19-12.56.12:875][325]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-12.56.12:876][325]LogContentValidation: Enabled validators:
+[2025.05.19-12.56.12:876][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-12.56.12:876][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-12.56.12:876][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-12.56.12:876][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-12.56.12:876][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-12.56.12:876][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-12.56.12:876][325]AssetCheck: /Game/blueprint_exercises/Exercise_7/Exercise7_level Validating asset
+[2025.05.19-12.56.14:588][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.19-12.56.14:589][470]LogAssetEditorSubsystem: Opening Asset editor for World /Game/blueprint_exercises/Exercise_7/Exercise7_level.Exercise7_level
+[2025.05.19-12.56.14:590][470]Cmd: MAP LOAD FILE="../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_7/Exercise7_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.19-12.56.14:659][470]LogWorld: UWorld::CleanupWorld for Exercise6_level, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.56.14:659][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.56.14:679][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.19-12.56.14:727][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.19-12.56.14:729][470]LogWorld: UWorld::CleanupWorld for Exercise7_level, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-12.56.14:729][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-12.56.14:754][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.19-12.56.14:846][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.19-12.56.14:847][470]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.19-12.56.14:849][470]LogAudio: Display: Audio Device (ID: 1) registered with world 'Exercise7_level'.
+[2025.05.19-12.56.14:849][470]LogChaosDD: Creating Chaos Debug Draw Scene for world Exercise7_level
+[2025.05.19-12.56.14:887][470]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.19-12.56.14:914][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.19-12.56.14:927][470]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.19-12.56.14:927][470]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2025.05.19-12.56.47:565][757]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18418.650391
+[2025.05.19-12.56.48:564][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-12.56.48:564][760]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18419.318359, Update Interval: 312.572418
