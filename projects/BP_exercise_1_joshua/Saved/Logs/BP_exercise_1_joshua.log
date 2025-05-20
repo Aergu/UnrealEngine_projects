@@ -15259,3 +15259,140 @@ Script call stack:
 [2025.05.20-12.31.16:607][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.05.20-12.31.16:609][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
 [2025.05.20-12.31.16:682][  2]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.05.20-12.34.49:273][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18680.931641
+[2025.05.20-12.34.50:274][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-12.34.50:275][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18681.599609, Update Interval: 301.984924
+[2025.05.20-12.40.22:680][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19014.587891
+[2025.05.20-12.40.23:679][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-12.40.23:679][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19015.255859, Update Interval: 339.174774
+[2025.05.20-12.46.46:772][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19398.896484
+[2025.05.20-12.46.47:773][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-12.46.47:773][914]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19399.564453, Update Interval: 329.081696
+[2025.05.20-12.49.50:856][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.05.20-12.49.51:243][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-12.49.51:364][566]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint] ([2] browsable assets)...
+[2025.05.20-12.49.51:422][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprint_exercises/Exercise_10/Door_Blueprint.Door_Blueprint]
+[2025.05.20-12.49.51:422][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint]
+[2025.05.20-12.49.51:433][566]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_10/Door_Blueprint
+[2025.05.20-12.49.51:433][566]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Door_BlueprintE0FCF0AC458CBEA0C96C1A960483669F.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_10/Door_Blueprint.uasset'
+[2025.05.20-12.49.51:444][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.018 ms (total: 15.2 sec)
+[2025.05.20-12.49.51:510][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-12.49.51:510][566]LogContentValidation: Enabled validators:
+[2025.05.20-12.49.51:510][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-12.49.51:510][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-12.49.51:510][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-12.49.51:510][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-12.49.51:510][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-12.49.51:510][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-12.49.51:510][566]AssetCheck: /Game/blueprint_exercises/Exercise_10/Door_Blueprint Validating asset
+[2025.05.20-12.51.20:787][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.05.20-12.51.21:295][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-12.51.21:413][327]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint] ([2] browsable assets)...
+[2025.05.20-12.51.21:470][327]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprint_exercises/Exercise_10/Door_Blueprint.Door_Blueprint]
+[2025.05.20-12.51.21:470][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint]
+[2025.05.20-12.51.21:481][327]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_10/Door_Blueprint
+[2025.05.20-12.51.21:482][327]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Door_Blueprint7E09F96441A875F08F05769DC119E5E2.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_10/Door_Blueprint.uasset'
+[2025.05.20-12.51.21:493][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.360 ms (total: 15.4 sec)
+[2025.05.20-12.51.21:559][327]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-12.51.21:559][327]LogContentValidation: Enabled validators:
+[2025.05.20-12.51.21:559][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-12.51.21:559][327]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-12.51.21:559][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-12.51.21:559][327]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-12.51.21:559][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-12.51.21:559][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-12.51.21:559][327]AssetCheck: /Game/blueprint_exercises/Exercise_10/Door_Blueprint Validating asset
+[2025.05.20-12.51.55:813][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.20-12.51.56:230][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-12.51.56:347][ 49]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint] ([2] browsable assets)...
+[2025.05.20-12.51.56:405][ 49]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprint_exercises/Exercise_10/Door_Blueprint.Door_Blueprint]
+[2025.05.20-12.51.56:405][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint]
+[2025.05.20-12.51.56:428][ 49]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_10/Door_Blueprint
+[2025.05.20-12.51.56:428][ 49]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Door_Blueprint430759AE4C65C7E1E36B4CAEF65245B4.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_10/Door_Blueprint.uasset'
+[2025.05.20-12.51.56:438][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.501 ms (total: 15.6 sec)
+[2025.05.20-12.51.56:510][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-12.51.56:510][ 49]LogContentValidation: Enabled validators:
+[2025.05.20-12.51.56:510][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-12.51.56:510][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-12.51.56:510][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-12.51.56:510][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-12.51.56:510][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-12.51.56:510][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-12.51.56:510][ 49]AssetCheck: /Game/blueprint_exercises/Exercise_10/Door_Blueprint Validating asset
+[2025.05.20-12.52.18:695][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.20-12.52.19:707][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-12.52.19:827][639]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint] ([2] browsable assets)...
+[2025.05.20-12.52.19:890][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprint_exercises/Exercise_10/Door_Blueprint.Door_Blueprint]
+[2025.05.20-12.52.19:890][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint]
+[2025.05.20-12.52.19:902][639]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_10/Door_Blueprint
+[2025.05.20-12.52.19:902][639]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Door_BlueprintC3966D714587A311B94793AAD64EF057.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_10/Door_Blueprint.uasset'
+[2025.05.20-12.52.19:912][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.604 ms (total: 15.8 sec)
+[2025.05.20-12.52.19:991][639]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-12.52.19:991][639]LogContentValidation: Enabled validators:
+[2025.05.20-12.52.19:991][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-12.52.19:992][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-12.52.19:992][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-12.52.19:992][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-12.52.19:992][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-12.52.19:992][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-12.52.19:992][639]AssetCheck: /Game/blueprint_exercises/Exercise_10/Door_Blueprint Validating asset
+[2025.05.20-12.52.56:238][154]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=BenQ LCD (Intel(R) Display Audio), InstanceID=1
+[2025.05.20-12.52.56:387][154]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.20-12.52.56:388][154]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3808
+[2025.05.20-12.52.56:671][155]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.20-12.52.56:677][155]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8ca0a3b8-d2a9-484e-a070-294cdee4a432}, Name=BenQ LCD (Intel(R) Display Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=106.14
+[2025.05.20-12.52.56:691][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.20-12.52.56:693][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.20-12.53.02:349][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19774.115234
+[2025.05.20-12.53.03:349][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-12.53.03:349][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19774.783203, Update Interval: 308.679474
+[2025.05.20-12.54.19:488][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-12.54.19:612][120]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint] ([2] browsable assets)...
+[2025.05.20-12.54.19:677][120]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprint_exercises/Exercise_10/Door_Blueprint.Door_Blueprint]
+[2025.05.20-12.54.19:677][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint]
+[2025.05.20-12.54.19:688][120]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_10/Door_Blueprint
+[2025.05.20-12.54.19:689][120]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Door_Blueprint369433AA4DD1D172965EBF88D97CC698.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_10/Door_Blueprint.uasset'
+[2025.05.20-12.54.19:700][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.935 ms (total: 16.0 sec)
+[2025.05.20-12.54.19:760][120]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-12.54.19:760][120]LogContentValidation: Enabled validators:
+[2025.05.20-12.54.19:760][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-12.54.19:760][120]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-12.54.19:760][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-12.54.19:760][120]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-12.54.19:760][120]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-12.54.19:760][120]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-12.54.19:760][120]AssetCheck: /Game/blueprint_exercises/Exercise_10/Door_Blueprint Validating asset
+[2025.05.20-12.54.36:989][521]LogEditorTransaction: Undo Create Pin Link
+[2025.05.20-12.54.45:101][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.05.20-12.54.45:536][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-12.54.45:645][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint] ([2] browsable assets)...
+[2025.05.20-12.54.45:701][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprint_exercises/Exercise_10/Door_Blueprint.Door_Blueprint]
+[2025.05.20-12.54.45:701][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint]
+[2025.05.20-12.54.45:713][863]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_10/Door_Blueprint
+[2025.05.20-12.54.45:713][863]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Door_Blueprint621297D744ACA38E8AC14292EFE60CAF.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_10/Door_Blueprint.uasset'
+[2025.05.20-12.54.45:722][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.217 ms (total: 16.2 sec)
+[2025.05.20-12.54.45:792][863]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-12.54.45:792][863]LogContentValidation: Enabled validators:
+[2025.05.20-12.54.45:792][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-12.54.45:792][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-12.54.45:792][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-12.54.45:792][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-12.54.45:792][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-12.54.45:792][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-12.54.45:793][863]AssetCheck: /Game/blueprint_exercises/Exercise_10/Door_Blueprint Validating asset
+[2025.05.20-12.55.33:371][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-12.55.33:498][308]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint] ([2] browsable assets)...
+[2025.05.20-12.55.33:562][308]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprint_exercises/Exercise_10/Door_Blueprint.Door_Blueprint]
+[2025.05.20-12.55.33:562][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_10/Door_Blueprint]
+[2025.05.20-12.55.33:574][308]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_10/Door_Blueprint
+[2025.05.20-12.55.33:575][308]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Door_Blueprint64D74CFF4D2F53DD55DDF693D5CAAA90.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_10/Door_Blueprint.uasset'
+[2025.05.20-12.55.33:587][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.469 ms (total: 16.4 sec)
+[2025.05.20-12.55.33:658][308]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-12.55.33:658][308]LogContentValidation: Enabled validators:
+[2025.05.20-12.55.33:658][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-12.55.33:658][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-12.55.33:658][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-12.55.33:658][308]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-12.55.33:658][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-12.55.33:658][308]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-12.55.33:658][308]AssetCheck: /Game/blueprint_exercises/Exercise_10/Door_Blueprint Validating asset
