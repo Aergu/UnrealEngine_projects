@@ -4045,3 +4045,1167 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.26-11.58.32:421][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.05.26-11.58.32:424][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
 [2025.05.26-11.58.32:459][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.05.26-12.01.11:830][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6106.579102
+[2025.05.26-12.01.12:829][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-12.01.12:830][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6107.245605, Update Interval: 347.072357
+[2025.05.26-12.05.33:139][225]LogSlate: Window 'BP_Time_Gain' being destroyed
+[2025.05.26-12.05.33:150][225]LogSlate: Window 'BP_Time_Gain' being destroyed
+[2025.05.26-12.05.33:734][225]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-12.05.33:749][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-12.05.34:784][225]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.26-12.05.34:784][225]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-12.05.34:784][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-12.05.35:334][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.26-12.05.35:344][225]LogAutomationController: Ignoring very large delta of 2.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-12.05.35:737][243]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-12.05.35:746][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-12.05.35:746][243]LogPlayLevel: Creating play world package: /Game/blueprint_exercises/Exercise_12/UEDPIE_0_1Exercise12_level
+[2025.05.26-12.05.35:750][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003414s)
+[2025.05.26-12.05.35:750][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/blueprint_exercises/Exercise_12/1Exercise12_level.1Exercise12_level to /Game/blueprint_exercises/Exercise_12/UEDPIE_0_1Exercise12_level.1Exercise12_level (0.003465s)
+[2025.05.26-12.05.35:770][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.26-12.05.35:770][243]LogChaosDD: Creating Chaos Debug Draw Scene for world 1Exercise12_level
+[2025.05.26-12.05.35:772][243]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2025.05.26-12.05.35:773][243]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.26-12.05.35:773][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-12.05.35:773][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-12.05.35:773][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-12.05.35:773][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-12.05.35:773][243]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-12.05.35:773][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-12.05.35:773][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-12.05.35:773][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-12.05.35:773][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-12.05.35:773][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-12.05.35:773][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-12.05.35:775][243]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-12.05.35:803][243]LogAudioMixer: Display: Using Audio Hardware Device Hörlurar (exibel Andesite Stereo)
+[2025.05.26-12.05.35:803][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-12.05.35:803][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-12.05.35:803][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-12.05.35:804][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.26-12.05.35:804][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.05.26-12.05.35:807][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.26-12.05.35:807][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.26-12.05.35:807][243]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.26-12.05.35:807][243]LogAudio: Display: Audio Device (ID: 7) registered with world '1Exercise12_level'.
+[2025.05.26-12.05.35:807][243]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.26-12.05.35:810][243]LogLoad: Game class is 'BP_CubeGameMode_C'
+[2025.05.26-12.05.35:812][243]LogWorld: Bringing World /Game/blueprint_exercises/Exercise_12/UEDPIE_0_1Exercise12_level.1Exercise12_level up for play (max tick rate 0) at 2025.05.26-14.05.35
+[2025.05.26-12.05.35:812][243]LogWorld: Bringing up level for play took: 0.001198
+[2025.05.26-12.05.35:814][243]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.05.26-12.05.35:816][243]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Get ready!
+[2025.05.26-12.05.35:817][243]PIE: Server logged in
+[2025.05.26-12.05.35:818][243]PIE: Play in editor total start time 0.072 seconds.
+[2025.05.26-12.05.38:687][342]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] GO!
+[2025.05.26-12.05.38:687][342]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:687][342]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.973694
+[2025.05.26-12.05.38:713][343]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:713][343]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.946396
+[2025.05.26-12.05.38:738][344]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:738][344]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.921536
+[2025.05.26-12.05.38:775][345]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:775][345]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.884968
+[2025.05.26-12.05.38:803][346]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:803][346]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.857227
+[2025.05.26-12.05.38:827][347]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:827][347]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.832045
+[2025.05.26-12.05.38:855][348]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:855][348]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.804644
+[2025.05.26-12.05.38:881][349]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:881][349]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.777663
+[2025.05.26-12.05.38:908][350]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:908][350]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.752256
+[2025.05.26-12.05.38:933][351]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:933][351]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.726576
+[2025.05.26-12.05.38:959][352]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:960][352]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.69983
+[2025.05.26-12.05.38:986][353]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.38:986][353]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.673673
+[2025.05.26-12.05.39:013][354]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:013][354]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.647024
+[2025.05.26-12.05.39:039][355]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:039][355]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.619889
+[2025.05.26-12.05.39:065][356]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:065][356]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.593962
+[2025.05.26-12.05.39:104][357]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:104][357]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.555735
+[2025.05.26-12.05.39:130][358]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:130][358]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.52973
+[2025.05.26-12.05.39:155][359]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:155][359]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.504124
+[2025.05.26-12.05.39:182][360]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:182][360]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.477298
+[2025.05.26-12.05.39:208][361]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:208][361]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.451135
+[2025.05.26-12.05.39:235][362]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:235][362]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.424653
+[2025.05.26-12.05.39:261][363]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:261][363]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.398645
+[2025.05.26-12.05.39:288][364]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:288][364]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.372439
+[2025.05.26-12.05.39:314][365]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:314][365]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.346339
+[2025.05.26-12.05.39:340][366]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:340][366]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.320141
+[2025.05.26-12.05.39:365][367]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:365][367]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.294725
+[2025.05.26-12.05.39:391][368]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:391][368]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.268412
+[2025.05.26-12.05.39:427][369]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:427][369]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.232569
+[2025.05.26-12.05.39:454][370]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:454][370]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.205669
+[2025.05.26-12.05.39:481][371]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:481][371]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.17848
+[2025.05.26-12.05.39:507][372]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:507][372]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.152381
+[2025.05.26-12.05.39:534][373]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:534][373]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.125393
+[2025.05.26-12.05.39:561][374]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:561][374]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.098671
+[2025.05.26-12.05.39:585][375]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:585][375]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.074342
+[2025.05.26-12.05.39:611][376]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:611][376]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.047695
+[2025.05.26-12.05.39:638][377]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:638][377]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 9.021707
+[2025.05.26-12.05.39:664][378]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:664][378]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 8.995777
+[2025.05.26-12.05.39:692][379]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:692][379]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 8.968563
+[2025.05.26-12.05.39:716][380]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:716][380]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 8.943125
+[2025.05.26-12.05.39:753][381]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:753][381]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 8.906717
+[2025.05.26-12.05.39:778][382]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:778][382]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 8.881466
+[2025.05.26-12.05.39:806][383]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:806][383]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 8.853664
+[2025.05.26-12.05.39:831][384]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:832][384]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.828837
+[2025.05.26-12.05.39:856][385]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:856][385]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.802851
+[2025.05.26-12.05.39:884][386]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:884][386]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.775996
+[2025.05.26-12.05.39:908][387]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:908][387]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.751304
+[2025.05.26-12.05.39:934][388]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:934][388]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.725868
+[2025.05.26-12.05.39:959][389]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:959][389]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.699975
+[2025.05.26-12.05.39:986][390]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.39:986][390]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.673324
+[2025.05.26-12.05.40:013][391]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:013][391]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.647658
+[2025.05.26-12.05.40:037][392]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:037][392]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.622507
+[2025.05.26-12.05.40:074][393]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:074][393]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.585237
+[2025.05.26-12.05.40:099][394]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:099][394]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.560554
+[2025.05.26-12.05.40:125][395]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:125][395]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.53442
+[2025.05.26-12.05.40:151][396]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:151][396]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.509334
+[2025.05.26-12.05.40:175][397]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:175][397]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.484242
+[2025.05.26-12.05.40:201][398]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:201][398]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.458042
+[2025.05.26-12.05.40:228][399]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:228][399]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.431229
+[2025.05.26-12.05.40:253][400]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:254][400]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.406214
+[2025.05.26-12.05.40:279][401]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:279][401]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.380351
+[2025.05.26-12.05.40:305][402]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:306][402]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.35387
+[2025.05.26-12.05.40:331][403]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:332][403]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.327591
+[2025.05.26-12.05.40:357][404]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:357][404]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.30238
+[2025.05.26-12.05.40:393][405]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:393][405]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.267269
+[2025.05.26-12.05.40:418][406]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:418][406]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.241393
+[2025.05.26-12.05.40:444][407]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:444][407]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.214785
+[2025.05.26-12.05.40:471][408]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:471][408]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.188162
+[2025.05.26-12.05.40:496][409]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:496][409]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.163593
+[2025.05.26-12.05.40:521][410]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:521][410]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.13789
+[2025.05.26-12.05.40:547][411]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:547][411]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.111559
+[2025.05.26-12.05.40:573][412]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:573][412]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.086915
+[2025.05.26-12.05.40:599][413]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:599][413]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.060262
+[2025.05.26-12.05.40:625][414]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:625][414]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.034608
+[2025.05.26-12.05.40:650][415]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:650][415]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.010302
+[2025.05.26-12.05.40:675][416]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:675][416]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.984778
+[2025.05.26-12.05.40:711][417]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:711][417]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.948972
+[2025.05.26-12.05.40:737][418]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:737][418]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.922523
+[2025.05.26-12.05.40:763][419]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:763][419]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.897195
+[2025.05.26-12.05.40:788][420]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:788][420]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.871848
+[2025.05.26-12.05.40:813][421]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:813][421]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.846132
+[2025.05.26-12.05.40:840][422]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:840][422]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.819817
+[2025.05.26-12.05.40:865][423]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:865][423]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.794404
+[2025.05.26-12.05.40:891][424]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:891][424]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.768349
+[2025.05.26-12.05.40:917][425]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:917][425]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.741796
+[2025.05.26-12.05.40:944][426]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:944][426]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.716466
+[2025.05.26-12.05.40:969][427]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:969][427]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.690952
+[2025.05.26-12.05.40:995][428]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.40:995][428]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.664671
+[2025.05.26-12.05.41:030][429]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:030][429]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.629178
+[2025.05.26-12.05.41:057][430]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:057][430]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.602841
+[2025.05.26-12.05.41:082][431]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:082][431]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.57718
+[2025.05.26-12.05.41:108][432]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:108][432]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.551316
+[2025.05.26-12.05.41:135][433]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:135][433]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.524296
+[2025.05.26-12.05.41:161][434]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:161][434]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.498041
+[2025.05.26-12.05.41:187][435]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:187][435]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.473394
+[2025.05.26-12.05.41:212][436]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:212][436]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.447205
+[2025.05.26-12.05.41:237][437]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:237][437]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.422112
+[2025.05.26-12.05.41:263][438]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:263][438]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.396049
+[2025.05.26-12.05.41:290][439]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:290][439]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.370061
+[2025.05.26-12.05.41:315][440]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:315][440]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.344513
+[2025.05.26-12.05.41:351][441]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:351][441]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.308116
+[2025.05.26-12.05.41:376][442]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:376][442]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.283122
+[2025.05.26-12.05.41:404][443]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:404][443]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.255318
+[2025.05.26-12.05.41:430][444]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:430][444]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.230164
+[2025.05.26-12.05.41:456][445]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:456][445]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.203784
+[2025.05.26-12.05.41:482][446]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:482][446]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.177874
+[2025.05.26-12.05.41:507][447]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:507][447]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.152441
+[2025.05.26-12.05.41:533][448]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:533][448]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.126902
+[2025.05.26-12.05.41:559][449]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:559][449]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.100509
+[2025.05.26-12.05.41:586][450]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:586][450]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.073606
+[2025.05.26-12.05.41:611][451]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:611][451]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.048658
+[2025.05.26-12.05.41:635][452]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:635][452]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.024229
+[2025.05.26-12.05.41:673][453]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:673][453]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.986789
+[2025.05.26-12.05.41:698][454]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:698][454]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.961166
+[2025.05.26-12.05.41:723][455]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:723][455]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.935964
+[2025.05.26-12.05.41:750][456]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:750][456]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.910439
+[2025.05.26-12.05.41:775][457]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:775][457]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.885028
+[2025.05.26-12.05.41:800][458]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:800][458]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.859261
+[2025.05.26-12.05.41:826][459]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:826][459]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.833117
+[2025.05.26-12.05.41:853][460]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:853][460]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.807413
+[2025.05.26-12.05.41:878][461]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:878][461]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.78129
+[2025.05.26-12.05.41:904][462]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:904][462]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.754918
+[2025.05.26-12.05.41:930][463]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:931][463]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.728495
+[2025.05.26-12.05.41:956][464]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:956][464]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.702941
+[2025.05.26-12.05.41:992][465]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.41:992][465]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.667717
+[2025.05.26-12.05.42:019][466]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:019][466]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.640303
+[2025.05.26-12.05.42:044][467]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:044][467]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.615355
+[2025.05.26-12.05.42:070][468]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:070][468]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.590251
+[2025.05.26-12.05.42:096][469]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:096][469]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.562454
+[2025.05.26-12.05.42:122][470]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:122][470]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.536834
+[2025.05.26-12.05.42:148][471]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:148][471]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.511709
+[2025.05.26-12.05.42:175][472]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:175][472]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.485187
+[2025.05.26-12.05.42:200][473]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:200][473]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.460101
+[2025.05.26-12.05.42:226][474]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:226][474]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.433692
+[2025.05.26-12.05.42:253][475]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:253][475]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.406612
+[2025.05.26-12.05.42:278][476]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:278][476]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.380825
+[2025.05.26-12.05.42:315][477]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:315][477]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.344175
+[2025.05.26-12.05.42:341][478]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:341][478]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.318123
+[2025.05.26-12.05.42:367][479]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:368][479]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.292303
+[2025.05.26-12.05.42:393][480]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:393][480]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.266063
+[2025.05.26-12.05.42:420][481]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:420][481]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.239919
+[2025.05.26-12.05.42:446][482]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:446][482]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.214284
+[2025.05.26-12.05.42:472][483]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:472][483]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.187092
+[2025.05.26-12.05.42:497][484]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:497][484]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.16231
+[2025.05.26-12.05.42:523][485]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:523][485]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.136324
+[2025.05.26-12.05.42:550][486]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:550][486]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.109944
+[2025.05.26-12.05.42:579][487]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:579][487]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.08115
+[2025.05.26-12.05.42:604][488]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:604][488]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.055574
+[2025.05.26-12.05.42:639][489]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:639][489]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.01948
+[2025.05.26-12.05.42:666][490]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:666][490]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.993434
+[2025.05.26-12.05.42:691][491]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:691][491]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.968165
+[2025.05.26-12.05.42:717][492]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:717][492]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.942578
+[2025.05.26-12.05.42:743][493]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:743][493]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.915758
+[2025.05.26-12.05.42:770][494]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:770][494]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.889875
+[2025.05.26-12.05.42:795][495]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:795][495]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.864478
+[2025.05.26-12.05.42:821][496]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:821][496]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.838247
+[2025.05.26-12.05.42:847][497]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:847][497]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.812485
+[2025.05.26-12.05.42:874][498]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:874][498]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.785675
+[2025.05.26-12.05.42:900][499]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:900][499]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.759924
+[2025.05.26-12.05.42:925][500]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:925][500]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.734086
+[2025.05.26-12.05.42:963][501]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:963][501]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.696385
+[2025.05.26-12.05.42:988][502]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.42:988][502]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.670831
+[2025.05.26-12.05.43:015][503]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:015][503]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.644491
+[2025.05.26-12.05.43:042][504]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:042][504]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.617612
+[2025.05.26-12.05.43:067][505]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:067][505]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.592667
+[2025.05.26-12.05.43:093][506]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:093][506]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.566298
+[2025.05.26-12.05.43:120][507]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:120][507]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.538859
+[2025.05.26-12.05.43:146][508]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:146][508]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.51294
+[2025.05.26-12.05.43:172][509]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:172][509]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.487056
+[2025.05.26-12.05.43:198][510]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:198][510]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.460532
+[2025.05.26-12.05.43:225][511]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:225][511]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.435376
+[2025.05.26-12.05.43:250][512]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:250][512]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.408324
+[2025.05.26-12.05.43:286][513]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:286][513]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.373245
+[2025.05.26-12.05.43:313][514]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:313][514]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.346481
+[2025.05.26-12.05.43:340][515]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:340][515]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.320353
+[2025.05.26-12.05.43:366][516]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:366][516]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.293372
+[2025.05.26-12.05.43:392][517]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:392][517]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.267287
+[2025.05.26-12.05.43:419][518]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:419][518]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.240657
+[2025.05.26-12.05.43:444][519]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:444][519]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.215008
+[2025.05.26-12.05.43:469][520]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:469][520]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.190113
+[2025.05.26-12.05.43:496][521]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:496][521]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.163177
+[2025.05.26-12.05.43:522][522]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:522][522]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.137617
+[2025.05.26-12.05.43:547][523]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:547][523]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.113095
+[2025.05.26-12.05.43:573][524]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:573][524]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.086699
+[2025.05.26-12.05.43:610][525]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:610][525]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.050483
+[2025.05.26-12.05.43:635][526]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:636][526]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 25.024404
+[2025.05.26-12.05.43:661][527]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:661][527]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.998549
+[2025.05.26-12.05.43:686][528]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:686][528]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.972346
+[2025.05.26-12.05.43:716][529]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:716][529]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.943731
+[2025.05.26-12.05.43:736][530]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:736][530]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.922975
+[2025.05.26-12.05.43:762][531]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:762][531]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.897879
+[2025.05.26-12.05.43:787][532]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:787][532]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.872385
+[2025.05.26-12.05.43:813][533]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:813][533]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.846103
+[2025.05.26-12.05.43:840][534]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:840][534]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.819608
+[2025.05.26-12.05.43:865][535]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:865][535]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.7946
+[2025.05.26-12.05.43:890][536]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:891][536]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.768867
+[2025.05.26-12.05.43:925][537]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:925][537]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.734092
+[2025.05.26-12.05.43:951][538]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:951][538]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.707954
+[2025.05.26-12.05.43:978][539]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.43:978][539]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.682366
+[2025.05.26-12.05.44:003][540]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:003][540]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.656082
+[2025.05.26-12.05.44:029][541]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:029][541]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.630133
+[2025.05.26-12.05.44:055][542]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:055][542]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.604098
+[2025.05.26-12.05.44:082][543]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:082][543]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.578019
+[2025.05.26-12.05.44:106][544]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:106][544]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.553076
+[2025.05.26-12.05.44:134][545]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:134][545]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.526528
+[2025.05.26-12.05.44:158][546]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:158][546]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.501224
+[2025.05.26-12.05.44:184][547]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:184][547]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.475962
+[2025.05.26-12.05.44:210][548]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:210][548]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.449757
+[2025.05.26-12.05.44:246][549]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:246][549]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.414077
+[2025.05.26-12.05.44:272][550]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:272][550]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.387739
+[2025.05.26-12.05.44:297][551]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:297][551]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.362154
+[2025.05.26-12.05.44:323][552]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:324][552]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.33657
+[2025.05.26-12.05.44:349][553]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:349][553]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.310847
+[2025.05.26-12.05.44:375][554]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:375][554]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.28445
+[2025.05.26-12.05.44:403][555]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:403][555]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.257089
+[2025.05.26-12.05.44:426][556]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:426][556]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.232796
+[2025.05.26-12.05.44:453][557]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:453][557]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.206402
+[2025.05.26-12.05.44:481][558]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:481][558]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.178183
+[2025.05.26-12.05.44:506][559]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:506][559]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.15418
+[2025.05.26-12.05.44:532][560]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:532][560]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.127805
+[2025.05.26-12.05.44:568][561]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:568][561]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.09192
+[2025.05.26-12.05.44:593][562]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:593][562]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.066303
+[2025.05.26-12.05.44:620][563]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:620][563]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.039218
+[2025.05.26-12.05.44:646][564]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:646][564]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 24.013473
+[2025.05.26-12.05.44:672][565]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:672][565]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.988044
+[2025.05.26-12.05.44:698][566]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:698][566]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.960722
+[2025.05.26-12.05.44:725][567]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:725][567]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.934619
+[2025.05.26-12.05.44:752][568]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:752][568]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.907967
+[2025.05.26-12.05.44:777][569]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:777][569]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.882506
+[2025.05.26-12.05.44:804][570]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:804][570]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.856205
+[2025.05.26-12.05.44:828][571]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:829][571]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.83108
+[2025.05.26-12.05.44:855][572]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:855][572]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.805035
+[2025.05.26-12.05.44:892][573]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:892][573]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.767954
+[2025.05.26-12.05.44:916][574]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:916][574]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.743859
+[2025.05.26-12.05.44:940][575]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:940][575]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.718944
+[2025.05.26-12.05.44:968][576]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:968][576]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.691716
+[2025.05.26-12.05.44:994][577]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.44:994][577]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.665164
+[2025.05.26-12.05.45:020][578]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:020][578]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.639818
+[2025.05.26-12.05.45:045][579]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:045][579]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.614719
+[2025.05.26-12.05.45:071][580]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:071][580]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.588329
+[2025.05.26-12.05.45:097][581]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:097][581]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.562183
+[2025.05.26-12.05.45:124][582]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:124][582]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.535711
+[2025.05.26-12.05.45:150][583]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:150][583]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.510308
+[2025.05.26-12.05.45:175][584]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:175][584]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.484933
+[2025.05.26-12.05.45:212][585]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:212][585]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.448195
+[2025.05.26-12.05.45:238][586]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:238][586]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.422167
+[2025.05.26-12.05.45:264][587]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:264][587]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.396228
+[2025.05.26-12.05.45:291][588]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:291][588]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.371054
+[2025.05.26-12.05.45:316][589]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:316][589]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.344721
+[2025.05.26-12.05.45:341][590]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:341][590]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.319663
+[2025.05.26-12.05.45:366][591]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:366][591]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.295196
+[2025.05.26-12.05.45:388][592]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:388][592]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.271159
+[2025.05.26-12.05.45:412][593]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:412][593]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.247227
+[2025.05.26-12.05.45:437][594]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:437][594]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.222845
+[2025.05.26-12.05.45:459][595]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:459][595]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.20029
+[2025.05.26-12.05.45:482][596]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:482][596]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.177783
+[2025.05.26-12.05.45:514][597]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:514][597]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.145336
+[2025.05.26-12.05.45:538][598]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:538][598]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.120968
+[2025.05.26-12.05.45:560][599]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:560][599]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.099115
+[2025.05.26-12.05.45:584][600]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:584][600]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.075623
+[2025.05.26-12.05.45:607][601]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:607][601]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.05301
+[2025.05.26-12.05.45:631][602]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:631][602]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.029387
+[2025.05.26-12.05.45:652][603]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:652][603]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 23.006631
+[2025.05.26-12.05.45:676][604]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:677][604]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.983308
+[2025.05.26-12.05.45:699][605]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:700][605]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.960398
+[2025.05.26-12.05.45:724][606]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:724][606]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.936475
+[2025.05.26-12.05.45:745][607]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:745][607]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.913951
+[2025.05.26-12.05.45:770][608]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:770][608]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.889458
+[2025.05.26-12.05.45:802][609]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:802][609]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.857961
+[2025.05.26-12.05.45:825][610]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:825][610]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.833616
+[2025.05.26-12.05.45:848][611]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:848][611]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.811285
+[2025.05.26-12.05.45:872][612]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:872][612]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.787568
+[2025.05.26-12.05.45:896][613]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:896][613]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.763168
+[2025.05.26-12.05.45:918][614]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:919][614]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.74152
+[2025.05.26-12.05.45:942][615]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:943][615]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.717356
+[2025.05.26-12.05.45:964][616]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:965][616]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.6949
+[2025.05.26-12.05.45:988][617]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.45:988][617]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.67102
+[2025.05.26-12.05.46:011][618]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:011][618]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.648935
+[2025.05.26-12.05.46:034][619]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:034][619]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.624944
+[2025.05.26-12.05.46:057][620]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:057][620]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.601466
+[2025.05.26-12.05.46:091][621]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:091][621]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.568235
+[2025.05.26-12.05.46:116][622]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:116][622]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.544271
+[2025.05.26-12.05.46:139][623]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:139][623]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.520355
+[2025.05.26-12.05.46:162][624]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:162][624]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.497626
+[2025.05.26-12.05.46:185][625]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:185][625]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.474279
+[2025.05.26-12.05.46:208][626]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:208][626]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.451703
+[2025.05.26-12.05.46:231][627]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:231][627]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.428493
+[2025.05.26-12.05.46:253][628]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:253][628]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.406101
+[2025.05.26-12.05.46:277][629]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:277][629]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.382263
+[2025.05.26-12.05.46:301][630]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:301][630]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.358252
+[2025.05.26-12.05.46:325][631]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:325][631]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.335417
+[2025.05.26-12.05.46:347][632]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:348][632]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.312038
+[2025.05.26-12.05.46:382][633]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:382][633]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.278728
+[2025.05.26-12.05.46:404][634]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:404][634]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.255487
+[2025.05.26-12.05.46:427][635]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:427][635]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.232584
+[2025.05.26-12.05.46:451][636]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:451][636]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.208561
+[2025.05.26-12.05.46:475][637]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:475][637]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.185561
+[2025.05.26-12.05.46:498][638]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:498][638]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.162005
+[2025.05.26-12.05.46:522][639]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:522][639]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.138336
+[2025.05.26-12.05.46:543][640]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:543][640]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.116331
+[2025.05.26-12.05.46:566][641]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:566][641]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.093729
+[2025.05.26-12.05.46:590][642]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:590][642]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.069429
+[2025.05.26-12.05.46:613][643]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:613][643]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.046321
+[2025.05.26-12.05.46:638][644]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:638][644]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 22.022269
+[2025.05.26-12.05.46:671][645]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:671][645]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.988584
+[2025.05.26-12.05.46:695][646]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:695][646]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.96369
+[2025.05.26-12.05.46:718][647]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:718][647]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.941764
+[2025.05.26-12.05.46:742][648]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:742][648]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.916783
+[2025.05.26-12.05.46:764][649]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:764][649]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.895327
+[2025.05.26-12.05.46:788][650]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:788][650]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.87138
+[2025.05.26-12.05.46:812][651]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:812][651]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.847844
+[2025.05.26-12.05.46:835][652]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:835][652]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.824165
+[2025.05.26-12.05.46:859][653]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:859][653]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.800608
+[2025.05.26-12.05.46:882][654]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:882][654]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.776805
+[2025.05.26-12.05.46:904][655]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:904][655]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.754839
+[2025.05.26-12.05.46:929][656]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:929][656]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.731523
+[2025.05.26-12.05.46:961][657]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:961][657]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.698202
+[2025.05.26-12.05.46:985][658]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.46:986][658]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.674271
+[2025.05.26-12.05.47:008][659]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.47:008][659]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.651468
+[2025.05.26-12.05.47:032][660]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.47:032][660]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.628233
+[2025.05.26-12.05.47:056][661]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 0
+[2025.05.26-12.05.47:056][661]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.603435
+[2025.05.26-12.05.47:079][662]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:079][662]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.581135
+[2025.05.26-12.05.47:102][663]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:102][663]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.557354
+[2025.05.26-12.05.47:125][664]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:125][664]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.533737
+[2025.05.26-12.05.47:149][665]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:149][665]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.510325
+[2025.05.26-12.05.47:174][666]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:174][666]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.486371
+[2025.05.26-12.05.47:198][667]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:198][667]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.461345
+[2025.05.26-12.05.47:221][668]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:221][668]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.438276
+[2025.05.26-12.05.47:255][669]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:255][669]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.404861
+[2025.05.26-12.05.47:278][670]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:278][670]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.381557
+[2025.05.26-12.05.47:302][671]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:302][671]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.358081
+[2025.05.26-12.05.47:324][672]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:324][672]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.335602
+[2025.05.26-12.05.47:349][673]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:349][673]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.311655
+[2025.05.26-12.05.47:371][674]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 1
+[2025.05.26-12.05.47:371][674]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.288478
+[2025.05.26-12.05.47:395][675]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:395][675]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.26497
+[2025.05.26-12.05.47:418][676]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:418][676]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.24177
+[2025.05.26-12.05.47:441][677]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:441][677]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.218718
+[2025.05.26-12.05.47:465][678]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:465][678]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.194821
+[2025.05.26-12.05.47:487][679]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:487][679]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.171987
+[2025.05.26-12.05.47:512][680]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:512][680]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.147742
+[2025.05.26-12.05.47:544][681]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:544][681]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.115185
+[2025.05.26-12.05.47:568][682]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:568][682]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.09196
+[2025.05.26-12.05.47:591][683]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:591][683]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.06789
+[2025.05.26-12.05.47:614][684]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 2
+[2025.05.26-12.05.47:615][684]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.045116
+[2025.05.26-12.05.47:638][685]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:638][685]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 21.02182
+[2025.05.26-12.05.47:662][686]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:662][686]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.998018
+[2025.05.26-12.05.47:685][687]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:685][687]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.974683
+[2025.05.26-12.05.47:707][688]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:707][688]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.952468
+[2025.05.26-12.05.47:730][689]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:730][689]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.930017
+[2025.05.26-12.05.47:754][690]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:754][690]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.905133
+[2025.05.26-12.05.47:776][691]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:776][691]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.883101
+[2025.05.26-12.05.47:799][692]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:799][692]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.859991
+[2025.05.26-12.05.47:832][693]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:832][693]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.827647
+[2025.05.26-12.05.47:855][694]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:855][694]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.804122
+[2025.05.26-12.05.47:878][695]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:878][695]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.781285
+[2025.05.26-12.05.47:901][696]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:902][696]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.758484
+[2025.05.26-12.05.47:924][697]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:924][697]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.735289
+[2025.05.26-12.05.47:946][698]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:946][698]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.712608
+[2025.05.26-12.05.47:970][699]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:970][699]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.689573
+[2025.05.26-12.05.47:993][700]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.47:993][700]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.66627
+[2025.05.26-12.05.48:016][701]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:016][701]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.643983
+[2025.05.26-12.05.48:039][702]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:039][702]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.620651
+[2025.05.26-12.05.48:063][703]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:063][703]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.596685
+[2025.05.26-12.05.48:083][704]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:083][704]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.576261
+[2025.05.26-12.05.48:116][705]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:117][705]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.543226
+[2025.05.26-12.05.48:139][706]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:139][706]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.520116
+[2025.05.26-12.05.48:162][707]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:162][707]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.497106
+[2025.05.26-12.05.48:185][708]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:185][708]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.474256
+[2025.05.26-12.05.48:209][709]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:209][709]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.450334
+[2025.05.26-12.05.48:232][710]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:232][710]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.427612
+[2025.05.26-12.05.48:255][711]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:255][711]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.404544
+[2025.05.26-12.05.48:278][712]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:278][712]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.38126
+[2025.05.26-12.05.48:301][713]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:301][713]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.357851
+[2025.05.26-12.05.48:326][714]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:326][714]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.33389
+[2025.05.26-12.05.48:349][715]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:349][715]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.31067
+[2025.05.26-12.05.48:372][716]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:372][716]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.287063
+[2025.05.26-12.05.48:406][717]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:406][717]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.253423
+[2025.05.26-12.05.48:430][718]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:430][718]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.229657
+[2025.05.26-12.05.48:452][719]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:452][719]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.207151
+[2025.05.26-12.05.48:475][720]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:475][720]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.184501
+[2025.05.26-12.05.48:498][721]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:498][721]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.161679
+[2025.05.26-12.05.48:522][722]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:522][722]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.136975
+[2025.05.26-12.05.48:546][723]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:546][723]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.114015
+[2025.05.26-12.05.48:569][724]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:569][724]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.090792
+[2025.05.26-12.05.48:592][725]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:592][725]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.068272
+[2025.05.26-12.05.48:613][726]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:613][726]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.045825
+[2025.05.26-12.05.48:637][727]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:637][727]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 20.022909
+[2025.05.26-12.05.48:659][728]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:660][728]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.999823
+[2025.05.26-12.05.48:693][729]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:693][729]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.966068
+[2025.05.26-12.05.48:716][730]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:716][730]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.943358
+[2025.05.26-12.05.48:738][731]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:738][731]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.921458
+[2025.05.26-12.05.48:763][732]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:763][732]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.896886
+[2025.05.26-12.05.48:785][733]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:785][733]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.874251
+[2025.05.26-12.05.48:809][734]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:809][734]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.851061
+[2025.05.26-12.05.48:832][735]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:832][735]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.827804
+[2025.05.26-12.05.48:855][736]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:855][736]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.804105
+[2025.05.26-12.05.48:878][737]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:878][737]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.781677
+[2025.05.26-12.05.48:902][738]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:902][738]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.756865
+[2025.05.26-12.05.48:923][739]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:923][739]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.735799
+[2025.05.26-12.05.48:947][740]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:947][740]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.712446
+[2025.05.26-12.05.48:981][741]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.48:981][741]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.678759
+[2025.05.26-12.05.49:003][742]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:003][742]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.656114
+[2025.05.26-12.05.49:027][743]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:027][743]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.63285
+[2025.05.26-12.05.49:050][744]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:050][744]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.609869
+[2025.05.26-12.05.49:073][745]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:073][745]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.58633
+[2025.05.26-12.05.49:095][746]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:095][746]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.564344
+[2025.05.26-12.05.49:118][747]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:119][747]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.541125
+[2025.05.26-12.05.49:141][748]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:141][748]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.518845
+[2025.05.26-12.05.49:163][749]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:163][749]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.496287
+[2025.05.26-12.05.49:188][750]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:188][750]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.471913
+[2025.05.26-12.05.49:211][751]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:211][751]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.44834
+[2025.05.26-12.05.49:234][752]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:234][752]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.426072
+[2025.05.26-12.05.49:266][753]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:266][753]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.393621
+[2025.05.26-12.05.49:289][754]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:289][754]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.370586
+[2025.05.26-12.05.49:312][755]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:312][755]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.347366
+[2025.05.26-12.05.49:336][756]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:336][756]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.323647
+[2025.05.26-12.05.49:359][757]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:359][757]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.301263
+[2025.05.26-12.05.49:382][758]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:382][758]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.277504
+[2025.05.26-12.05.49:403][759]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:404][759]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.255723
+[2025.05.26-12.05.49:427][760]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:427][760]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.232347
+[2025.05.26-12.05.49:450][761]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:450][761]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.209646
+[2025.05.26-12.05.49:473][762]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:473][762]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.186984
+[2025.05.26-12.05.49:495][763]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:495][763]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.164863
+[2025.05.26-12.05.49:516][764]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:517][764]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.143099
+[2025.05.26-12.05.49:550][765]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:550][765]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.108678
+[2025.05.26-12.05.49:574][766]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:574][766]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.08584
+[2025.05.26-12.05.49:596][767]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:596][767]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.063001
+[2025.05.26-12.05.49:620][768]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:620][768]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.03958
+[2025.05.26-12.05.49:643][769]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:643][769]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 19.016935
+[2025.05.26-12.05.49:666][770]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:666][770]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.993442
+[2025.05.26-12.05.49:689][771]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:689][771]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.970639
+[2025.05.26-12.05.49:712][772]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:712][772]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.947832
+[2025.05.26-12.05.49:735][773]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:735][773]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.924357
+[2025.05.26-12.05.49:758][774]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:758][774]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.90135
+[2025.05.26-12.05.49:781][775]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:781][775]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.878422
+[2025.05.26-12.05.49:805][776]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:805][776]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.854354
+[2025.05.26-12.05.49:837][777]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:837][777]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.821964
+[2025.05.26-12.05.49:861][778]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:861][778]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.79848
+[2025.05.26-12.05.49:883][779]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:883][779]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.776371
+[2025.05.26-12.05.49:906][780]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:906][780]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.753566
+[2025.05.26-12.05.49:929][781]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:929][781]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.731051
+[2025.05.26-12.05.49:951][782]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:951][782]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.707502
+[2025.05.26-12.05.49:974][783]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:974][783]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.685034
+[2025.05.26-12.05.49:997][784]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.49:997][784]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.662824
+[2025.05.26-12.05.50:020][785]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:020][785]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.640481
+[2025.05.26-12.05.50:043][786]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:043][786]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.617068
+[2025.05.26-12.05.50:066][787]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:066][787]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.59374
+[2025.05.26-12.05.50:089][788]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:089][788]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.570194
+[2025.05.26-12.05.50:122][789]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:122][789]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.537831
+[2025.05.26-12.05.50:145][790]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:145][790]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.514601
+[2025.05.26-12.05.50:168][791]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:168][791]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.491575
+[2025.05.26-12.05.50:190][792]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:190][792]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.469426
+[2025.05.26-12.05.50:215][793]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:215][793]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.445438
+[2025.05.26-12.05.50:237][794]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:237][794]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.422738
+[2025.05.26-12.05.50:260][795]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:261][795]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.399213
+[2025.05.26-12.05.50:284][796]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:284][796]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.375699
+[2025.05.26-12.05.50:307][797]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:307][797]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.352715
+[2025.05.26-12.05.50:330][798]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:330][798]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.32986
+[2025.05.26-12.05.50:352][799]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:353][799]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.307334
+[2025.05.26-12.05.50:375][800]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:375][800]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.283946
+[2025.05.26-12.05.50:409][801]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:409][801]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.250122
+[2025.05.26-12.05.50:431][802]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:432][802]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.227878
+[2025.05.26-12.05.50:455][803]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:455][803]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.205
+[2025.05.26-12.05.50:479][804]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:479][804]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.181174
+[2025.05.26-12.05.50:502][805]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:502][805]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.157175
+[2025.05.26-12.05.50:525][806]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:525][806]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.134254
+[2025.05.26-12.05.50:548][807]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:548][807]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.111377
+[2025.05.26-12.05.50:571][808]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:571][808]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.088673
+[2025.05.26-12.05.50:594][809]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:594][809]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.065937
+[2025.05.26-12.05.50:618][810]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:618][810]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.041885
+[2025.05.26-12.05.50:640][811]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:640][811]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 18.019502
+[2025.05.26-12.05.50:662][812]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:662][812]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.996609
+[2025.05.26-12.05.50:696][813]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:696][813]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.963162
+[2025.05.26-12.05.50:718][814]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:718][814]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.940875
+[2025.05.26-12.05.50:742][815]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:742][815]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.917843
+[2025.05.26-12.05.50:764][816]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:764][816]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 17.895066
+[2025.05.26-12.05.50:787][817]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:787][817]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.872381
+[2025.05.26-12.05.50:811][818]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:811][818]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.849206
+[2025.05.26-12.05.50:834][819]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:834][819]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.825295
+[2025.05.26-12.05.50:856][820]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:856][820]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.802737
+[2025.05.26-12.05.50:881][821]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:881][821]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.779304
+[2025.05.26-12.05.50:904][822]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:904][822]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.75555
+[2025.05.26-12.05.50:926][823]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:926][823]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.733188
+[2025.05.26-12.05.50:950][824]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:950][824]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.710375
+[2025.05.26-12.05.50:982][825]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.50:982][825]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.677056
+[2025.05.26-12.05.51:006][826]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:006][826]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.653485
+[2025.05.26-12.05.51:029][827]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:029][827]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.630184
+[2025.05.26-12.05.51:052][828]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:052][828]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.607584
+[2025.05.26-12.05.51:075][829]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:075][829]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.585124
+[2025.05.26-12.05.51:097][830]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:097][830]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.562222
+[2025.05.26-12.05.51:121][831]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:121][831]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.538946
+[2025.05.26-12.05.51:143][832]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:143][832]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.516533
+[2025.05.26-12.05.51:167][833]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:167][833]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.492993
+[2025.05.26-12.05.51:189][834]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:189][834]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.47103
+[2025.05.26-12.05.51:212][835]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:212][835]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.447987
+[2025.05.26-12.05.51:234][836]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:234][836]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.425445
+[2025.05.26-12.05.51:267][837]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:267][837]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.392407
+[2025.05.26-12.05.51:289][838]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:289][838]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.370764
+[2025.05.26-12.05.51:311][839]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:311][839]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.348615
+[2025.05.26-12.05.51:333][840]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:333][840]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.326008
+[2025.05.26-12.05.51:356][841]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:356][841]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.303171
+[2025.05.26-12.05.51:379][842]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:379][842]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.280664
+[2025.05.26-12.05.51:402][843]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:402][843]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.257714
+[2025.05.26-12.05.51:424][844]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:424][844]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.235726
+[2025.05.26-12.05.51:447][845]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:447][845]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.213174
+[2025.05.26-12.05.51:468][846]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:468][846]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.19073
+[2025.05.26-12.05.51:492][847]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:492][847]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.16695
+[2025.05.26-12.05.51:515][848]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:516][848]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.143678
+[2025.05.26-12.05.51:549][849]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:549][849]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.110189
+[2025.05.26-12.05.51:573][850]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:573][850]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.086306
+[2025.05.26-12.05.51:596][851]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:596][851]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.063585
+[2025.05.26-12.05.51:620][852]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:620][852]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.039531
+[2025.05.26-12.05.51:642][853]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:642][853]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 27.017673
+[2025.05.26-12.05.51:665][854]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:665][854]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.994775
+[2025.05.26-12.05.51:687][855]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:687][855]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.972535
+[2025.05.26-12.05.51:710][856]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:710][856]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.950184
+[2025.05.26-12.05.51:732][857]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:732][857]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.927091
+[2025.05.26-12.05.51:756][858]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:756][858]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.903717
+[2025.05.26-12.05.51:779][859]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:779][859]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.880538
+[2025.05.26-12.05.51:801][860]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:801][860]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.858427
+[2025.05.26-12.05.51:834][861]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:834][861]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.825825
+[2025.05.26-12.05.51:856][862]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:856][862]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.803872
+[2025.05.26-12.05.51:878][863]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:878][863]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.7816
+[2025.05.26-12.05.51:901][864]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:901][864]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.759368
+[2025.05.26-12.05.51:924][865]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:924][865]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.735648
+[2025.05.26-12.05.51:947][866]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:947][866]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.712766
+[2025.05.26-12.05.51:969][867]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:969][867]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.690373
+[2025.05.26-12.05.51:992][868]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.51:992][868]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.668136
+[2025.05.26-12.05.52:014][869]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.52:014][869]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.645583
+[2025.05.26-12.05.52:037][870]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.52:037][870]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.622605
+[2025.05.26-12.05.52:060][871]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.52:060][871]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.59966
+[2025.05.26-12.05.52:084][872]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 3
+[2025.05.26-12.05.52:084][872]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.575547
+[2025.05.26-12.05.52:116][873]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 4
+[2025.05.26-12.05.52:116][873]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.543681
+[2025.05.26-12.05.52:138][874]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 4
+[2025.05.26-12.05.52:138][874]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.520342
+[2025.05.26-12.05.52:162][875]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 4
+[2025.05.26-12.05.52:162][875]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.496905
+[2025.05.26-12.05.52:185][876]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 4
+[2025.05.26-12.05.52:185][876]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.474995
+[2025.05.26-12.05.52:207][877]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 4
+[2025.05.26-12.05.52:207][877]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.453205
+[2025.05.26-12.05.52:228][878]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 4
+[2025.05.26-12.05.52:228][878]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.43043
+[2025.05.26-12.05.52:251][879]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 4
+[2025.05.26-12.05.52:251][879]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.407949
+[2025.05.26-12.05.52:274][880]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:274][880]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.385663
+[2025.05.26-12.05.52:297][881]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:297][881]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.362594
+[2025.05.26-12.05.52:321][882]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:321][882]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.338759
+[2025.05.26-12.05.52:344][883]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:344][883]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.315679
+[2025.05.26-12.05.52:366][884]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:366][884]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.293441
+[2025.05.26-12.05.52:399][885]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:400][885]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.260194
+[2025.05.26-12.05.52:423][886]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:423][886]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.23682
+[2025.05.26-12.05.52:444][887]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:444][887]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.214573
+[2025.05.26-12.05.52:468][888]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:468][888]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.19142
+[2025.05.26-12.05.52:491][889]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Points: 5
+[2025.05.26-12.05.52:491][889]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] Time left: 26.168955
+[2025.05.26-12.05.52:513][890]LogBlueprintUserMessages: [BP_CubeGameMode_C_0] YOU WIN!
+[2025.05.26-12.05.54:039][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-12.05.54:039][954]LogWorld: BeginTearingDown for /Game/blueprint_exercises/Exercise_12/UEDPIE_0_1Exercise12_level
+[2025.05.26-12.05.54:040][954]LogWorld: UWorld::CleanupWorld for 1Exercise12_level, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-12.05.54:040][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-12.05.54:146][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-12.05.54:151][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-12.05.54:170][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-12.05.54:170][954]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.26-12.05.54:170][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.26-12.05.54:206][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.26-12.05.54:213][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.26-12.05.54:253][955]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.05.26-12.07.31:914][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6486.677246
+[2025.05.26-12.07.32:915][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-12.07.32:916][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6487.344238, Update Interval: 359.024017
