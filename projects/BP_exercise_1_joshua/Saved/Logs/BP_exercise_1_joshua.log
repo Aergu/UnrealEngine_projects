@@ -3745,3 +3745,553 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.06.05-09.04.24:532][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5376.415039
 [2025.06.05-09.04.25:532][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.05-09.04.25:532][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5377.082031, Update Interval: 342.269348
+[2025.06.05-09.10.54:316][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5766.205078
+[2025.06.05-09.10.55:316][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-09.10.55:316][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5766.872559, Update Interval: 340.304565
+[2025.06.05-09.17.27:750][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6159.636230
+[2025.06.05-09.17.28:749][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-09.17.28:749][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6160.302734, Update Interval: 309.613342
+[2025.06.05-09.17.48:378][951]LogDerivedDataCache: C:/Users/media/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.05-09.23.28:163][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6520.045410
+[2025.06.05-09.23.29:162][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-09.23.29:162][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6520.712402, Update Interval: 314.857635
+[2025.06.05-09.29.27:232][ 47]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6879.114258
+[2025.06.05-09.29.28:233][ 50]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-09.29.28:233][ 50]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6879.781738, Update Interval: 303.257538
+[2025.06.05-09.33.49:275][833]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: fc7...5a9
+[2025.06.05-09.33.49:275][833]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.93 RefreshExpires: 1.554e+07
+[2025.06.05-09.33.50:275][836]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: fc7...5a9 Access[Expires: 2025.06.05-11.33.49 Remaining: 7200.71] Refresh[Expires: 2025-12-02T07:35:28.938Z Remaining: 15544899.94] State: Valid
+[2025.06.05-09.35.13:958][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7225.845215
+[2025.06.05-09.35.14:957][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-09.35.14:957][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7226.511719, Update Interval: 310.602142
+[2025.06.05-09.41.16:700][175]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7588.582031
+[2025.06.05-09.41.17:701][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-09.41.17:701][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7589.249023, Update Interval: 357.018951
+[2025.06.05-09.48.11:459][419]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8003.331055
+[2025.06.05-09.48.12:460][422]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-09.48.12:460][422]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8003.998047, Update Interval: 344.717560
+[2025.06.05-09.54.47:188][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8399.057617
+[2025.06.05-09.54.47:376][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-09.54.47:376][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8399.223633, Update Interval: 337.023224
+[2025.06.05-09.56.56:734][985]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.06.05-09.56.56:734][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-09.56.57:336][985]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2025.06.05-09.57.46:985][445]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.06.05-09.57.49:123][605]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.06.05-09.57.49:124][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.06.05-09.57.49:402][605]LogSlate: The tab "SaveActorTab" attempted to spawn in layout 'Blueprints_Unified_Components_v7' but failed for some reason. It will not be displayed.
+[2025.06.05-09.57.51:232][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.06.05-09.57.51:418][608]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.06.05-10.01.14:018][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8785.897461
+[2025.06.05-10.01.15:019][609]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.01.15:019][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8786.564453, Update Interval: 355.165863
+[2025.06.05-10.06.04:295][682]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2025.06.05-10.06.18:090][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.06.18:295][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/IMC_Default] ([1] browsable assets)...
+[2025.06.05-10.06.18:303][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/IMC_Default]
+[2025.06.05-10.06.18:303][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2025.06.05-10.06.18:321][777]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2025.06.05-10.06.18:321][777]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/IMC_Default2B7AE15249776700129455B94C3EE43E.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2025.06.05-10.06.18:344][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.990 ms (total: 601.481 ms)
+[2025.06.05-10.06.18:476][777]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.06.18:476][777]LogContentValidation: Enabled validators:
+[2025.06.05-10.06.18:476][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.06.18:476][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.06.18:476][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.06.18:476][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.06.18:476][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.06.18:476][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.06.18:487][777]AssetCheck: /Game/ThirdPerson/Input/IMC_Default Validating asset
+[2025.06.05-10.06.55:877][972]LogContentBrowser: Attempting asset rename: BP_Health_UI -> BP_Health_Score_UI
+[2025.06.05-10.06.59:678][972]LogMetaData: Removing '/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.SKEL_BP_Health_Score_UI_C' ref from Metadata '/Game/blueprint_exercises/Exercise_13/BP_Health_UI.PackageMetaData'
+[2025.06.05-10.06.59:678][972]LogMetaData: Removing '/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI_C' ref from Metadata '/Game/blueprint_exercises/Exercise_13/BP_Health_UI.PackageMetaData'
+[2025.06.05-10.06.59:678][972]LogMetaData: Removing '/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/blueprint_exercises/Exercise_13/BP_Health_UI.PackageMetaData'
+[2025.06.05-10.06.59:678][972]LogMetaData: Removing '/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/blueprint_exercises/Exercise_13/BP_Health_UI.PackageMetaData'
+[2025.06.05-10.06.59:678][972]LogMetaData: Removing '/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/blueprint_exercises/Exercise_13/BP_Health_UI.PackageMetaData'
+[2025.06.05-10.06.59:933][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.06.59:933][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.06.59:933][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.06.59:949][972]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.06.59:949][972]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI8C5ADA6C450B42FFD507768BFC5C6AF4.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.06.59:981][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.151 ms (total: 649.633 ms)
+[2025.06.05-10.07.00:185][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.06.05-10.07.00:212][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.06.05-10.07.00:240][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.06.05-10.07.00:343][972]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.07.00:343][972]LogContentValidation: Enabled validators:
+[2025.06.05-10.07.00:343][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.07.00:343][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.07.00:343][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.07.00:343][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.07.00:343][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.07.00:343][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.07.00:343][972]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-10.07.49:870][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9181.725586
+[2025.06.05-10.07.50:872][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.07.50:872][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9182.391602, Update Interval: 346.920380
+[2025.06.05-10.08.40:998][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.06.05-10.08.41:248][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.08.41:293][636]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.08.41:297][636]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.08.41:297][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.08.41:315][636]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.08.41:315][636]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI4ACA515D4CF87C74CD87C6BF2042848C.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.08.41:324][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.278 ms (total: 725.911 ms)
+[2025.06.05-10.08.41:375][636]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.08.41:375][636]LogContentValidation: Enabled validators:
+[2025.06.05-10.08.41:375][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.08.41:375][636]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.08.41:375][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.08.41:375][636]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.08.41:375][636]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.08.41:375][636]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.08.41:376][636]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-10.09.59:277][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.06.05-10.10.00:852][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.10.00:945][572]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.10.00:948][572]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.10.00:948][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.10.00:951][572]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.10.00:951][572]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI6F52BC1D4FC0D6E3B85976BF0CABCCB9.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.10.00:960][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.859 ms (total: 833.770 ms)
+[2025.06.05-10.10.01:026][572]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.10.01:026][572]LogContentValidation: Enabled validators:
+[2025.06.05-10.10.01:026][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.10.01:026][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.10.01:027][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.10.01:027][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.10.01:027][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.10.01:027][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.10.01:027][572]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-10.11.13:150][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.06.05-10.11.13:976][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.11.14:042][457]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.11.14:045][457]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.11.14:045][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.11.14:049][457]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.11.14:049][457]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI2C763EF2495D0DAFBED4ABB6C2AF905A.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.11.14:058][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.445 ms (total: 915.215 ms)
+[2025.06.05-10.11.14:127][457]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.11.14:127][457]LogContentValidation: Enabled validators:
+[2025.06.05-10.11.14:127][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.11.14:128][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.11.14:128][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.11.14:128][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.11.14:128][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.11.14:128][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.11.14:128][457]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-10.11.30:702][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.06.05-10.11.31:558][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.11.31:625][172]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.11.31:628][172]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.11.31:628][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.11.31:631][172]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.11.31:631][172]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI1B36A06944E7BABF54A265BC543CD105.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.11.31:641][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.296 ms (total: 998.512 ms)
+[2025.06.05-10.11.31:707][172]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.11.31:707][172]LogContentValidation: Enabled validators:
+[2025.06.05-10.11.31:707][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.11.31:707][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.11.31:707][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.11.31:707][172]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.11.31:707][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.11.31:707][172]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.11.31:708][172]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-10.12.13:161][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.06.05-10.12.13:680][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.12.13:743][618]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.12.13:746][618]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.12.13:746][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.12.13:750][618]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.12.13:751][618]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UID46FAC894F7F9FBB6FA6998FDF43A54E.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.12.13:759][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.689 ms (total: 1.07 sec)
+[2025.06.05-10.12.13:825][618]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.12.13:825][618]LogContentValidation: Enabled validators:
+[2025.06.05-10.12.13:825][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.12.13:825][618]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.12.13:825][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.12.13:825][618]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.12.13:825][618]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.12.13:825][618]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.12.13:826][618]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-10.14.25:835][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9577.695312
+[2025.06.05-10.14.26:863][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.14.26:863][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9578.361328, Update Interval: 308.131958
+[2025.06.05-10.17.48:378][864]LogDerivedDataCache: C:/Users/media/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.05-10.20.09:242][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9921.089844
+[2025.06.05-10.20.10:242][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.20.10:242][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9921.756836, Update Interval: 328.536041
+[2025.06.05-10.26.15:326][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10287.156250
+[2025.06.05-10.26.16:326][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.26.16:326][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10287.823242, Update Interval: 335.450317
+[2025.06.05-10.32.40:731][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10672.535156
+[2025.06.05-10.32.41:731][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.32.41:731][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10673.201172, Update Interval: 346.695160
+[2025.06.05-10.39.05:468][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11057.256836
+[2025.06.05-10.39.06:468][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.39.06:468][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11057.924805, Update Interval: 345.570862
+[2025.06.05-10.45.47:214][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11458.994141
+[2025.06.05-10.45.48:214][840]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.45.48:214][840]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11459.661133, Update Interval: 342.972504
+[2025.06.05-10.52.27:962][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11859.738281
+[2025.06.05-10.52.28:962][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.52.28:962][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11860.404297, Update Interval: 342.465271
+[2025.06.05-10.55.44:294][141]LogSlate: Took 0.046345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.06.05-10.55.45:834][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.45:836][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.45:846][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.45:998][202]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:140][204]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:161][205]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:303][207]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:427][208]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:446][209]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:563][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:578][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:602][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:706][212]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:741][213]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:860][214]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.55.46:991][216]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.06.05-10.56.02:071][963]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2025.06.05-10.56.02:596][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.56.02:679][970]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.56.02:684][970]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.56.02:684][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.56.02:690][970]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.56.02:690][970]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI9CA9258447634417C049E5AC14C1BD59.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.56.02:700][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.941 ms (total: 1.18 sec)
+[2025.06.05-10.56.02:775][970]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.56.02:775][970]LogContentValidation: Enabled validators:
+[2025.06.05-10.56.02:775][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.56.02:775][970]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.56.02:775][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.56.02:775][970]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.56.02:775][970]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.56.02:775][970]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.56.02:776][970]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-10.56.28:356][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.05-10.56.29:144][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.56.29:212][771]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.56.29:216][771]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.56.29:216][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.56.29:221][771]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.56.29:221][771]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI7F09DF3144BED9F1FA99139CF2C53D43.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.56.29:232][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.754 ms (total: 1.26 sec)
+[2025.06.05-10.56.29:310][771]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.56.29:310][771]LogContentValidation: Enabled validators:
+[2025.06.05-10.56.29:310][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.56.29:310][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.56.29:310][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.56.29:310][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.56.29:310][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.56.29:310][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.56.29:311][771]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-10.58.22:258][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.06.05-10.58.22:259][664]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/blueprint_exercises/Exercise_13/BP_Main_Menu_UI/MainMenu_UI_level' took 0.046
+[2025.06.05-10.58.22:259][664]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.58.22:263][664]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.58.22:263][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.58.22:268][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI_Auto1
+[2025.06.05-10.58.22:268][664]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI_Auto15A6F1D3F4BAB23AD626410B168F8C8B8.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Autosaves/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI_Auto1.uasset'
+[2025.06.05-10.58.22:284][664]LogFileHelpers: Auto-saving content packages took 0.025
+[2025.06.05-10.58.50:476][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12242.293945
+[2025.06.05-10.58.51:475][806]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-10.58.51:475][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12242.959961, Update Interval: 320.847198
+[2025.06.05-10.59.10:587][544]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2025.06.05-10.59.10:976][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-10.59.11:046][546]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-10.59.11:050][546]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-10.59.11:050][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-10.59.11:055][546]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-10.59.11:055][546]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI413E79AE4BFBA9FAAA09E1869863E886.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-10.59.11:066][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.827 ms (total: 1.35 sec)
+[2025.06.05-10.59.11:145][546]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-10.59.11:145][546]LogContentValidation: Enabled validators:
+[2025.06.05-10.59.11:145][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-10.59.11:145][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-10.59.11:145][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-10.59.11:145][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-10.59.11:145][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-10.59.11:145][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-10.59.11:146][546]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.00.23:024][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.06.05-11.00.23:521][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.00.23:596][584]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.00.23:600][584]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.00.23:600][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.00.23:604][584]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.00.23:604][584]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI1EFA10B64758E808063E2D9F471F106B.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.00.23:616][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.116 ms (total: 1.45 sec)
+[2025.06.05-11.00.23:693][584]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.00.23:693][584]LogContentValidation: Enabled validators:
+[2025.06.05-11.00.23:693][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.00.23:693][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.00.23:693][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.00.23:693][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.00.23:693][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.00.23:693][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.00.23:694][584]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.02.34:502][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.06.05-11.02.35:625][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.02.35:694][670]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.02.35:697][670]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.02.35:697][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.02.35:702][670]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.02.35:702][670]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI803F893D44B72641B475B2B1A1C7C7CA.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.02.35:712][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.521 ms (total: 1.54 sec)
+[2025.06.05-11.02.35:791][670]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.02.35:791][670]LogContentValidation: Enabled validators:
+[2025.06.05-11.02.35:791][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.02.35:791][670]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.02.35:791][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.02.35:791][670]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.02.35:791][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.02.35:791][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.02.35:792][670]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.04.56:588][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12608.381836
+[2025.06.05-11.04.57:587][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.04.57:587][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12609.048828, Update Interval: 306.839203
+[2025.06.05-11.10.46:469][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12958.239258
+[2025.06.05-11.10.47:468][ 36]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.10.47:468][ 36]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12958.906250, Update Interval: 311.563477
+[2025.06.05-11.16.22:499][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.06.05-11.16.23:050][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.16.23:128][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.16.23:133][523]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.16.23:133][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.16.23:139][523]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.16.23:139][523]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI6669E8234B4A82F4EDE0179F857D91A9.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.16.23:151][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.251 ms (total: 1.64 sec)
+[2025.06.05-11.16.23:224][523]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.16.23:224][523]LogContentValidation: Enabled validators:
+[2025.06.05-11.16.23:224][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.16.23:224][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.16.23:224][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.16.23:224][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.16.23:224][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.16.23:224][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.16.23:225][523]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.16.57:537][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13329.301758
+[2025.06.05-11.16.58:537][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.16.58:537][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13329.970703, Update Interval: 324.016846
+[2025.06.05-11.17.48:379][966]LogDerivedDataCache: C:/Users/media/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.05-11.23.13:945][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13705.709961
+[2025.06.05-11.23.14:945][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.23.14:945][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13706.376953, Update Interval: 340.128784
+[2025.06.05-11.24.57:087][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2025.06.05-11.24.57:434][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.24.57:511][851]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.24.57:515][851]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.24.57:515][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.24.57:521][851]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.24.57:522][851]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UIB78283A24EC377C5442C9FBAA42C886B.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.24.57:531][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.267 ms (total: 1.73 sec)
+[2025.06.05-11.24.57:591][851]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.24.57:591][851]LogContentValidation: Enabled validators:
+[2025.06.05-11.24.57:591][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.24.57:591][851]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.24.57:591][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.24.57:591][851]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.24.57:592][851]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.24.57:592][851]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.24.57:592][851]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.25.10:405][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.05-11.25.10:824][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.25.10:893][310]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.25.10:897][310]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.25.10:897][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.25.10:902][310]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.25.10:902][310]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UIE4B3C817487D7423E611DD8037683990.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.25.10:911][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.385 ms (total: 1.82 sec)
+[2025.06.05-11.25.10:990][310]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.25.10:990][310]LogContentValidation: Enabled validators:
+[2025.06.05-11.25.10:990][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.25.10:990][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.25.10:990][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.25.10:990][310]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.25.10:990][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.25.10:990][310]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.25.10:991][310]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.25.28:801][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.06.05-11.25.29:304][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.25.29:377][947]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.25.29:380][947]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.25.29:380][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.25.29:385][947]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.25.29:386][947]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UIEDB61A044670D8B9666E7DA6EF938EB1.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.25.29:395][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.196 ms (total: 1.91 sec)
+[2025.06.05-11.25.29:473][947]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.25.29:473][947]LogContentValidation: Enabled validators:
+[2025.06.05-11.25.29:473][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.25.29:473][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.25.29:473][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.25.29:474][947]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.25.29:474][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.25.29:474][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.25.29:474][947]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.26.58:012][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.05-11.26.58:014][ 44]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/blueprint_exercises/Exercise_13/BP_Main_Menu_UI/MainMenu_UI_level' took 0.033
+[2025.06.05-11.26.58:014][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.26.58:017][ 44]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.26.58:017][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.26.58:021][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI_Auto2
+[2025.06.05-11.26.58:021][ 44]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI_Auto2844281004C437658BD701AA8001E0804.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/Autosaves/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI_Auto2.uasset'
+[2025.06.05-11.26.58:022][ 44]LogFileHelpers: Auto-saving content packages took 0.008
+[2025.06.05-11.27.15:378][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.06.05-11.27.15:817][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.27.15:894][822]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.27.15:897][822]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.27.15:897][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.27.15:902][822]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.27.15:902][822]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI0E3857514B0A586105EDE49D24AA4E06.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.27.15:912][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.704 ms (total: 2.01 sec)
+[2025.06.05-11.27.15:991][822]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.27.15:991][822]LogContentValidation: Enabled validators:
+[2025.06.05-11.27.15:991][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.27.15:991][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.27.15:991][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.27.15:991][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.27.15:991][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.27.15:991][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.27.15:992][822]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.28.38:722][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.06.05-11.28.39:546][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.28.39:608][456]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.28.39:611][456]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.28.39:611][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.28.39:616][456]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.28.39:617][456]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UIF2C37DE249DD8B16BE81769EEE6F3027.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.28.39:626][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.765 ms (total: 2.09 sec)
+[2025.06.05-11.28.39:707][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.28.39:707][456]LogContentValidation: Enabled validators:
+[2025.06.05-11.28.39:707][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.28.39:707][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.28.39:707][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.28.39:707][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.28.39:707][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.28.39:707][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.28.39:708][456]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.29.31:622][104]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14083.392578
+[2025.06.05-11.29.31:795][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.29.31:795][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14083.547852, Update Interval: 352.886139
+[2025.06.05-11.29.58:360][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.05-11.29.59:155][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.29.59:229][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.29.59:234][451]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.29.59:234][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.29.59:239][451]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.29.59:239][451]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UIF767950E4DD1C7E48469409F7908A019.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.29.59:250][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.380 ms (total: 2.18 sec)
+[2025.06.05-11.29.59:323][451]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.29.59:323][451]LogContentValidation: Enabled validators:
+[2025.06.05-11.29.59:323][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.29.59:323][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.29.59:323][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.29.59:323][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.29.59:323][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.29.59:323][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.29.59:324][451]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.30.24:929][418]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2025.06.05-11.30.25:587][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.30.25:660][437]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.30.25:663][437]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.30.25:663][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.30.25:668][437]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.30.25:668][437]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UIE097327C4ABD57E5F9A238A517A14247.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.30.25:677][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.829 ms (total: 2.27 sec)
+[2025.06.05-11.30.25:757][437]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.30.25:757][437]LogContentValidation: Enabled validators:
+[2025.06.05-11.30.25:757][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.30.25:757][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.30.25:757][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.30.25:757][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.30.25:757][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.30.25:757][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.30.25:758][437]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.32.10:752][157]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: fc7...5a9
+[2025.06.05-11.32.10:752][157]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.71 RefreshExpires: 1.554e+07
+[2025.06.05-11.32.11:752][160]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: fc7...5a9 Access[Expires: 2025.06.05-13.32.11 Remaining: 7200.14] Refresh[Expires: 2025-12-02T07:35:28.938Z Remaining: 15537797.94] State: Valid
+[2025.06.05-11.36.03:802][856]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14475.581055
+[2025.06.05-11.36.04:803][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.36.04:803][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14476.247070, Update Interval: 335.399017
+[2025.06.05-11.42.30:550][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14862.349609
+[2025.06.05-11.42.31:549][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.42.31:549][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14863.015625, Update Interval: 358.179871
+[2025.06.05-11.49.09:970][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15261.758789
+[2025.06.05-11.49.10:970][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.49.10:970][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15262.424805, Update Interval: 347.010101
+[2025.06.05-11.54.05:199][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.54.05:282][848]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.54.05:286][848]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.54.05:286][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.54.05:291][848]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.54.05:291][848]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI928F611043F6800D686F408FB937BA08.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.54.05:303][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.867 ms (total: 2.38 sec)
+[2025.06.05-11.54.05:372][848]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.54.05:372][848]LogContentValidation: Enabled validators:
+[2025.06.05-11.54.05:372][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.54.05:372][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.54.05:372][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.54.05:372][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.54.05:372][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.54.05:372][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.54.05:373][848]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.54.06:606][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.06.05-11.55.28:856][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15640.642578
+[2025.06.05-11.55.29:857][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-11.55.29:857][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15641.309570, Update Interval: 313.901794
+[2025.06.05-11.57.51:600][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.06.05-11.57.52:385][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.57.52:459][454]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.57.52:464][454]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.57.52:464][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.57.52:470][454]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.57.52:470][454]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI6F8CFC39401732A64CC4C6800F0C16B2.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.57.52:480][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.151 ms (total: 2.47 sec)
+[2025.06.05-11.57.52:555][454]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.57.52:556][454]LogContentValidation: Enabled validators:
+[2025.06.05-11.57.52:556][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.57.52:556][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.57.52:556][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.57.52:556][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.57.52:556][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.57.52:556][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.57.52:557][454]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-11.58.33:409][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.06.05-11.58.33:856][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-11.58.33:908][334]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-11.58.33:912][334]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-11.58.33:913][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-11.58.33:919][334]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-11.58.33:919][334]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI330B8D77478B95E4A390FDB8C1CAF165.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-11.58.33:929][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.700 ms (total: 2.54 sec)
+[2025.06.05-11.58.34:006][334]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-11.58.34:006][334]LogContentValidation: Enabled validators:
+[2025.06.05-11.58.34:006][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-11.58.34:006][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-11.58.34:006][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-11.58.34:006][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-11.58.34:006][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-11.58.34:006][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-11.58.34:007][334]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
+[2025.06.05-12.01.41:304][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16013.103516
+[2025.06.05-12.01.42:304][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-12.01.42:305][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16013.770508, Update Interval: 320.081787
+[2025.06.05-12.03.09:961][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.06.05-12.03.10:669][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-12.03.10:743][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI] ([2] browsable assets)...
+[2025.06.05-12.03.10:746][313]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI.BP_Health_Score_UI]
+[2025.06.05-12.03.10:747][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI]
+[2025.06.05-12.03.10:752][313]LogSavePackage: Moving output files for package: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI
+[2025.06.05-12.03.10:753][313]LogSavePackage: Moving '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Saved/BP_Health_Score_UI2A38CED7461F28C03736EAAE6A83E6E2.tmp' to '../../../../UnrealEngine_projects/projects/BP_exercise_1_joshua/Content/blueprint_exercises/Exercise_13/BP_Health_Score_UI.uasset'
+[2025.06.05-12.03.10:765][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.468 ms (total: 2.64 sec)
+[2025.06.05-12.03.10:838][313]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.05-12.03.10:839][313]LogContentValidation: Enabled validators:
+[2025.06.05-12.03.10:839][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.05-12.03.10:839][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.05-12.03.10:839][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.05-12.03.10:839][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.05-12.03.10:839][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.05-12.03.10:839][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.05-12.03.10:840][313]AssetCheck: /Game/blueprint_exercises/Exercise_13/BP_Health_Score_UI Validating asset
